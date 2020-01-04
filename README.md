@@ -10,7 +10,7 @@ Features:
 * The program produces Greek names and addresses that are available in both Greek and Latin characters. 
 
 
-    #  **Installation**
+    ##  **Installation**
 
 1. Download and install [Node.js](https://nodejs.org/en/).
 2. Clone or download the code from this repository.
