@@ -16,7 +16,7 @@ Features:
 2. Clone or download the code from this repository.
 3. Run `npm install` inside application's main folder.
 
-Now if you want to:
+Now, if you want to:
 
 * **Run the app.** Just execute the command `npm start`.
-* **Build and distribute the app.** Run `npm run package-win`, `npm run package-linux` or `npm run package-mac` for Windows,  Linux or Mac OS builds respectively. You can find the distributable folders inside the folder `realease-builds` in your root folder of this project. 
+* **Build and distribute the app.** Run `npm run package-win`, `npm run package-linux` or `npm run package-mac` for Windows,  Linux or Mac OS builds respectively. You can find the distributable folders inside the folder `release-builds` in your root folder of this project. 
