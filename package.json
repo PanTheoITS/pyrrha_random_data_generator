@@ -1,0 +1,26 @@
+{
+  "name": "pyrrha-user-data-generator",
+  "version": "1.0.0",
+  "productName": "Pyrrha Data Generator",
+  "description": "Creates random greek user data for application testing",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "package-mac": "electron-packager . Pyrrha_data_generator --overwrite --platform=darwin --arch=x64 --icon=assets/icons/mac/icon.icns --prune=true --out=release-builds",
+    "package-win": "electron-packager . Pyrrha_data_generator --overwrite --asar --platform=win32 --arch=ia32 --icon=assets/icons/win/icon.ico --prune=true --out=release-builds --version-string.CompanyName=CE --version-string.FileDescription=CE --version-string.ProductName=\"Pyrrha User Data Generator\"",
+    "package-linux": "electron-packager . Pyrrha_data_generator --overwrite --asar --platform=linux --arch=x64 --icon=assets/icons/png/icon.png --prune=true --out=release-builds"
+  },
+  "author": "Panos Theodosopoulos (PanTheo)",
+  "license": "MIT",
+  "devDependencies": {
+    "devtron": "^1.4.0",
+    "electron": "^7.1.2",
+    "electron-packager": "^14.1.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "exceljs": "^3.5.0",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0"
+  }
+}

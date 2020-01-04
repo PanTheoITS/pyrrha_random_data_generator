@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel=" stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../assets/styles.css">
+    <title>Pyrrha - User Data Generator</title>
+</head>
+
+<body>
+    <h1 class="mt-3 text-center">Pyrrha</h1>
+    <div class="container">
+        <form method="post" action="" name="choicesForm" id="choicesForm">
+            <div class="main">
+                <div class="form-group">
+
+                    <div class="row">
+                        <div class="form-group col-4">
+                            <label for="ID">ID (Number)</label>
+                            <input class="form-control" type="text" name="ID" value="ID" maxlength="20">
+
+                        </div>
+                        <div class="col-2 selMargin">
+                            <span class="align-text-top">&#9746;</span>
+                        </div>
+                        <div class="form-group col-6 text-right ">
+                            <img src="../assets/icons/png/icon.png" width="85px" height="70px">
+
+                        </div>
+                    </div>
+                    <div class="row ">
+                        <div class="form-group col-4">
+
+                            <label for="username">Username</label>
+                            <input class="form-control" type="text" name="username" value="username" maxlength="20">
+                        </div>
+                        <div class="col-2 selMargin">
+                            <span>&#9746;</span>
+                        </div>
+                        <div class="form-group col-4">
+
+                            <label for="password">Password</label>
+                            <input class="form-control" type="text" name="password" value="password" maxlength="20">
+
+                        </div>
+                        <div class=" col-2 selMargin">
+                            <span>&#9746;</span>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="form-group col-4">
+
+                            <label for="fname">First Name</label>
+                            <input class="form-control" type="text" name="fname" value="fname" maxlength="20">
+
+                        </div>
+                        <div class=" col-2 selMargin">
+                            <span>&#9746;</span>
+                        </div>
+                        <div class="form-group col-4">
+
+                            <label for="lname">Last Name</label>
+                            <input class="form-control" type="text" name="lname" value="lname" maxlength="20">
+
+                        </div>
+                        <div class=" col-2 selMargin">
+                            <span>&#9746;</span>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="form-group col-4">
+
+                            <label for="email">E-mail</label>
+                            <input class="form-control" type="text" name="email" value="email" maxlength="20">
+
+                        </div>
+                        <div class=" col-2 selMargin">
+                            <span>&#9746;</span>
+                        </div>
+                        <div class="form-group col-4">
+
+                            <label for="phone">Phone (Landline)</label>
+                            <input class="form-control" type="text" name="phone" value="phone" maxlength="20">
+
+                        </div>
+                        <div class=" col-2 selMargin">
+                            <span>&#9746;</span>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="form-group col-4">
+
+                            <label for="phone">Mobile Phone</label>
+                            <input class="form-control" type="text" name="mobile" value="mobile" maxlength="20">
+
+                        </div>
+                        <div class=" col-2 selMargin">
+                            <span>&#9746;</span>
+                        </div>
+                        <div class="form-group col-4">
+
+                            <label for="phone">Address</label>
+                            <input class="form-control" type="text" name="address" value="address" maxlength="20">
+
+                        </div>
+                        <div class=" col-2 selMargin">
+                            <span>&#9746;</span>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <div class="main">
+                <div class="row">
+                    <div class="form-group col">
+                        <label for="recNumber">Number of Records</label>
+                        <input class="form-control" type="number" name="recNumber" min="1" max="10000" value="1">
+                        <input class="custom-range" type="range" name="slider" min="1" max="10000" value="1">
+                    </div>
+
+                    <div class="form-group col">
+                        <label for="export2">File Export Format</label>
+                        <select class="custom-select" name="export2" id="export2ID">
+                            <option value="xlsx" selected>Excel</option>
+                            <option value="csv">CSV</option>
+                            <option value="json">JSON</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="charLang">Character Language</label>
+                            <select class="custom-select" name="charLang" id="charLangID">
+                                <option value="el" selected>Greek</option>
+                                <option value="en">Latin</option>
+                                <option value="bo">Both</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="gender">Gender</label>
+                            <select class="custom-select" name="gender" id="genderID">
+                                <option value="m" selected>Male</option>
+                                <option value="f">Female</option>
+                                <option value="b">Both</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col text-center">
+                        <input class="btn btn-primary mt-3" type="submit" value="Execute">
+                    </div>
+                </div>
+
+            </div>
+        </form>
+    </div>
+
+
+    <script src="./index.js">
+
+    </script>
+
+
+</body>
+
+</html>

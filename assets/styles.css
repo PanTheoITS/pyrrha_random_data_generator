@@ -1,0 +1,73 @@
+@font-face {
+    font-family: 'Spectral SC';
+    src: url(./fonts/SpectralSC-Bold.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: 'FiraSans';
+    src: url(./fonts/FiraSans-Regular.ttf) format("truetype");
+}
+
+:root {
+    --main-color: #4a2c2c;
+    --second-color: #7F241F;
+    --third-color: #ffdc76;
+    --fourth-color: #fefea4;
+}
+
+
+body {
+
+    background-color: var(--main-color);
+    color: var(--third-color);
+    font-family: 'FiraSans';
+    font-size: 1.2rem;
+}
+
+body:after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: url(./img/database-152091_1280.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    opacity: 0.1;
+    z-index: -1;
+}
+
+h1 {
+    font-family: 'SpectralSC';
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+.container {
+    width: 50vw;
+}
+
+.main {
+    background-color: var(--second-color);
+    color: var(--fourth-color);
+    margin: 30px 0;
+    padding: 10px;
+    box-shadow: 3px 3px 10px #000000;
+    border-radius: 10px;
+
+}
+
+
+
+span {
+    font-size: 2rem;
+}
+
+span:hover {
+    cursor: pointer;
+}
+
+.selMargin {
+    margin-top: 32px;
+}
