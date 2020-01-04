@@ -14,7 +14,7 @@ Features:
 
 1. Download and install [Node.js](https://nodejs.org/en/).
 2. Clone or download the code from this repository.
-3. Inside application's main folder run `npm install`.
+3. Run `npm install` inside application's main folder.
 
 Now if you want to:
 
