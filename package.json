@@ -1,6 +1,6 @@
 {
   "name": "pyrrha-user-data-generator",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "productName": "Pyrrha Data Generator",
   "description": "Creates random greek user data for application testing",
   "main": "main.js",
@@ -14,13 +14,14 @@
   "license": "MIT",
   "devDependencies": {
     "devtron": "^1.4.0",
-    "electron": "^7.1.2",
-    "electron-packager": "^14.1.1"
+    "electron": "^8.2.2",
+    "electron-packager": "^14.2.1"
   },
   "dependencies": {
     "bootstrap": "^4.4.1",
-    "exceljs": "^3.5.0",
-    "jquery": "^3.4.1",
-    "popper.js": "^1.16.0"
+    "electron-prompt": "^1.5.1",
+    "exceljs": "^3.8.2",
+    "jquery": "^3.5.0",
+    "popper.js": "^1.16.1"
   }
 }

@@ -6,6 +6,7 @@ const {
     Menu,
     dialog
 } = require('electron');
+const prompt = require('electron-prompt');
 const fs = require('fs');
 const path = require('path');
 const Excel = require('exceljs');
@@ -33,21 +34,23 @@ let emails = [];
 let phones = [];
 let recordSet = [];
 
-const template = [{
-        label: 'Application',
-        submenu: [{
-            role: 'quit'
-        }]
-    },
+const template = [
     {
+        label: 'Application',
+        submenu: [
+            {
+                role: 'quit'
+            }
+        ]
+    }, {
         label: 'About',
-        submenu: [{
+        submenu: [
+            {
                 label: 'View License',
                 click() {
                     createLicenseWindow();
                 }
-            },
-            {
+            }, {
                 label: 'Developed by PanTheo',
                 click() {
                     shell.openExternal('http://pantheoplace.eu/');
@@ -58,7 +61,6 @@ const template = [{
     }
 
 ];
-
 
 function createMainWindow() {
 
@@ -84,14 +86,14 @@ function createMainWindow() {
     });
 
     mainWin.on('closed', () => {
-        if (win) win.close();
+        if (win)
+            win.close();
         mainWin = null;
     });
 
     mainWin.loadURL(`file://${__dirname}/app/index.html`);
 
 }
-
 
 function createLicenseWindow() {
     if (win) {
@@ -106,8 +108,7 @@ function createLicenseWindow() {
             height: 768,
             minHeight: 480,
             webPreferences: {
-                devTools: false,
-
+                devTools: false
             }
         });
 
@@ -125,12 +126,12 @@ function createLicenseWindow() {
     }
 }
 
-
 function fetchDataFromDB(fileName) {
     return new Promise((resolve, reject) => {
         let data = [];
         fs.readFile(path.resolve(__dirname, `dbase/${fileName}.json`), (err, rows) => {
-            if (err) reject(err);
+            if (err)
+                reject(err);
             let JSONRows = JSON.parse(rows);
             switch (fileName) {
                 case 'fnames':
@@ -161,13 +162,10 @@ function fetchDataFromDB(fileName) {
             }
             resolve(data);
 
-
         });
-
 
     });
 }
-
 
 function getRandomNumber(max) {
     return Math.floor(Math.random() * max);
@@ -176,7 +174,6 @@ function getRandomNumber(max) {
 function getLNames(data) {
     lnames = Array.from(data);
 }
-
 
 function getFNames(data) {
     fnames = Array.from(data);
@@ -211,18 +208,21 @@ function getSavePath(fileType) {
     setPath = dialog.showSaveDialogSync(mainWin, {
         title: "Save as",
         defaultPath: app.getPath('documents'),
-        filters: [{
-            name: dName,
-            ext: [fileType]
-        }],
+        filters: [
+            {
+                name: dName,
+                ext: [fileType]
+            }
+        ]
     });
 
     return setPath;
 }
 
-
 function createPhoneNumber(phoneType) {
-    let prefix = (phoneType === 'mobile') ? `${phones[getRandomNumber(phones.length)].mobile}` : `${phones[getRandomNumber(phones.length)].phone}`;
+    let prefix = (phoneType === 'mobile')
+        ? `${phones[getRandomNumber(phones.length)].mobile}`
+        : `${phones[getRandomNumber(phones.length)].phone}`;
     let pNumber = '';
 
     for (let i = 0; i < 7; i++) {
@@ -232,21 +232,76 @@ function createPhoneNumber(phoneType) {
     return `${prefix}${pNumber}`;
 }
 
-
 function createEmail(username) {
     return `${username}@${emails[getRandomNumber(emails.length)].provider}`;
 }
 
-
 function createUsername(fname, lname) {
-    return `${fname.slice(0,1)}${lname.slice(0,6)}`;
+    return `${fname.slice(0, 1)}${lname.slice(0, 6)}`;
 }
 
-
 function createPassword(charAmount) {
-    let chars = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x',
-        'y', 'z', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X',
-        'Y', 'Z', '!', '*', '+', '-', '.', '/', '?', '@', '_', '#', '$', '%', '&', '='
+    let chars = [
+        'a',
+        'b',
+        'c',
+        'd',
+        'e',
+        'f',
+        'g',
+        'h',
+        'i',
+        'j',
+        'k',
+        'l',
+        'm',
+        'n',
+        'o',
+        'p',
+        'q',
+        'r',
+        's',
+        't',
+        'u',
+        'v',
+        'w',
+        'x',
+        'y',
+        'z',
+        'A',
+        'B',
+        'C',
+        'D',
+        'E',
+        'F',
+        'G',
+        'H',
+        'I',
+        'J',
+        'K',
+        'L',
+        'M',
+        'N',
+        'O',
+        'P',
+        'Q',
+        'R',
+        'S',
+        'T',
+        'U',
+        'V',
+        'W',
+        'X',
+        'Y',
+        'Z',
+        '!',
+        '*',
+        '+',
+        '-',
+        '?',
+        '@',
+        '_',
+
     ];
     let pass = '';
 
@@ -257,7 +312,6 @@ function createPassword(charAmount) {
 
     return pass;
 }
-
 
 function getData(formValues) {
     let promiseArray = [];
@@ -316,7 +370,9 @@ function getData(formValues) {
                 break;
 
             case 'gender':
-                gender = (fname || lname || username || email) ? element.value : null;
+                gender = (fname || lname || username || email)
+                    ? element.value
+                    : null;
                 break;
             case 'recNumber':
                 recNumber = parseInt(element.value);
@@ -332,68 +388,58 @@ function getData(formValues) {
     }
 
     if (username || email) {
-        const fnameProm = fetchDataFromDB('fnames')
-            .then((data) => {
-                getFNames(data);
-            })
-            .catch((err) => {
-                dialogOptions.detail = err.message;
-                dialog.showMessageBox(mainWin, dialogOptions);
-                console.log(`Error while fetching fnames: ${err.message} `);
-            });
+        const fnameProm = fetchDataFromDB('fnames').then((data) => {
+            getFNames(data);
+        }).catch((err) => {
+            dialogOptions.detail = err.message;
+            dialog.showMessageBox(mainWin, dialogOptions);
+            console.log(`Error while fetching fnames: ${err.message} `);
+        });
 
         promiseArray.push(fnameProm);
 
-        const lnameProm = fetchDataFromDB('lnames')
-            .then((data) => {
-                getLNames(data);
-            })
-            .catch((err) => {
-                dialogOptions.detail = err.message;
-                dialog.showMessageBox(mainWin, dialogOptions);
-                console.log(`Error while fetching lnames: ${err.message} `);
-            });
+        const lnameProm = fetchDataFromDB('lnames').then((data) => {
+            getLNames(data);
+        }).catch((err) => {
+            dialogOptions.detail = err.message;
+            dialog.showMessageBox(mainWin, dialogOptions);
+            console.log(`Error while fetching lnames: ${err.message} `);
+        });
 
         promiseArray.push(lnameProm);
 
         if (email) {
-            fetchDataFromDB('emails')
-                .then((data) => {
-                    getEmails(data);
-                })
-                .catch((err) => {
-                    dialogOptions.detail = err.message;
-                    dialog.showMessageBox(mainWin, dialogOptions);
-                    console.log(`Error while fetching emails: ${err.message} `);
-                });
+            fetchDataFromDB('emails').then((data) => {
+                getEmails(data);
+            }).catch((err) => {
+                dialogOptions.detail = err.message;
+                dialog.showMessageBox(mainWin, dialogOptions);
+                console.log(`Error while fetching emails: ${err.message} `);
+            });
         }
 
     } else {
 
         if (fname) {
-            const fnameProm = fetchDataFromDB('fnames')
-                .then((data) => {
-                    getFNames(data);
-                })
-                .catch((err) => {
-                    dialogOptions.detail = err.message;
-                    dialog.showMessageBox(mainWin, dialogOptions);
-                    console.log(`Error while fetching fnames: ${err.message} `);
-                });
+            const fnameProm = fetchDataFromDB('fnames').then((data) => {
+                getFNames(data);
+            }).catch((err) => {
+                dialogOptions.detail = err.message;
+                dialog.showMessageBox(mainWin, dialogOptions);
+                console.log(`Error while fetching fnames: ${err.message} `);
+            });
 
             promiseArray.push(fnameProm);
         }
 
         if (lname) {
-            const lnameProm = fetchDataFromDB('lnames')
-                .then((data) => {
-                    getLNames(data);
-                })
-                .catch((err) => {
-                    dialogOptions.detail = err.message;
-                    dialog.showMessageBox(mainWin, dialogOptions);
-                    console.log(`Error while fetching lnames: ${err.message} `);
-                });
+            const lnameProm = fetchDataFromDB('lnames').then((data) => {
+                getLNames(data);
+            }).catch((err) => {
+                dialogOptions.detail = err.message;
+                dialog.showMessageBox(mainWin, dialogOptions);
+                console.log(`Error while fetching lnames: ${err.message} `);
+            });
 
             promiseArray.push(lnameProm);
         }
@@ -401,35 +447,32 @@ function getData(formValues) {
     }
 
     if (phone || mobile) {
-        const phoneProm = fetchDataFromDB('phones')
-            .then((data) => {
-                getPhoneNumbers(data);
-            })
-            .catch((err) => {
-                dialogOptions.detail = err.message;
-                dialog.showMessageBox(mainWin, dialogOptions);
-                console.log(`Error while fetching phones: ${err.message} `);
-            });
+        const phoneProm = fetchDataFromDB('phones').then((data) => {
+            getPhoneNumbers(data);
+        }).catch((err) => {
+            dialogOptions.detail = err.message;
+            dialog.showMessageBox(mainWin, dialogOptions);
+            console.log(`Error while fetching phones: ${err.message} `);
+        });
 
         promiseArray.push(phoneProm);
     }
 
     if (address) {
-        const addressProm = fetchDataFromDB('addresses')
-            .then((data) => {
-                getAddresses(data);
-            })
-            .catch((err) => {
-                dialogOptions.detail = err.message;
-                dialog.showMessageBox(mainWin, dialogOptions);
-                console.log(`Error while fetching addresses: ${err.message} `);
-            });
+        const addressProm = fetchDataFromDB('addresses').then((data) => {
+            getAddresses(data);
+        }).catch((err) => {
+            dialogOptions.detail = err.message;
+            dialog.showMessageBox(mainWin, dialogOptions);
+            console.log(`Error while fetching addresses: ${err.message} `);
+        });
 
         promiseArray.push(addressProm);
 
     }
 
-    Promise.allSettled(promiseArray)
+    Promise
+        .allSettled(promiseArray)
         .then(() => {
             createRecordset();
         })
@@ -440,12 +483,13 @@ function getData(formValues) {
         });
 }
 
-
 function createRecordset() {
     let strObject = '';
 
     for (let count = 0; count < recNumber; count++) {
-        strObject = (id) ? `{"ID":${count+1},` : '{';
+        strObject = (id)
+            ? `{"ID":${count + 1},`
+            : '{';
         let fnameIndex = getRandomNumber(fnames.length);
         let lnameIndex = getRandomNumber(lnames.length);
 
@@ -469,8 +513,9 @@ function createRecordset() {
                 strObject += `"${fname}_el":"${fnames[fnameIndex].fname_el}",`;
                 strObject += `"${fname}_en":"${fnames[fnameIndex].fname_en}",`;
             } else {
-                strObject += (charLang == 'el') ? `"${fname}":"${fnames[fnameIndex].fname_el}",` :
-                    `"${fname}":"${fnames[fnameIndex].fname_en}",`;
+                strObject += (charLang == 'el')
+                    ? `"${fname}":"${fnames[fnameIndex].fname_el}",`
+                    : `"${fname}":"${fnames[fnameIndex].fname_en}",`;
             }
 
         }
@@ -480,8 +525,9 @@ function createRecordset() {
                 strObject += `"${lname}_el":"${lnames[lnameIndex].lname_el}",`;
                 strObject += `"${lname}_en":"${lnames[lnameIndex].lname_en}",`;
             } else {
-                strObject += (charLang == 'el') ? `"${lname}":"${lnames[lnameIndex].lname_el}",` :
-                    `"${lname}":"${lnames[lnameIndex].lname_en}",`;
+                strObject += (charLang == 'el')
+                    ? `"${lname}":"${lnames[lnameIndex].lname_el}",`
+                    : `"${lname}":"${lnames[lnameIndex].lname_en}",`;
             }
         }
 
@@ -499,13 +545,16 @@ function createRecordset() {
 
         if (address) {
             let addressIndex = getRandomNumber(addresses.length);
-            let streetNum = (getRandomNumber(100) == 0) ? 1 : getRandomNumber(100);
+            let streetNum = (getRandomNumber(100) == 0)
+                ? 1
+                : getRandomNumber(100);
             if (charLang == 'bo') {
                 strObject += `"street_el":"${addresses[addressIndex].street_el} ${streetNum}","zip":"${addresses[addressIndex].zip}","district_el":"${addresses[addressIndex].district_el}","region_el":"${addresses[addressIndex].region_el}",`;
                 strObject += `"street_en":"${addresses[addressIndex].street_en} ${streetNum}","district_en":"${addresses[addressIndex].district_en}","region_en":"${addresses[addressIndex].region_en}",`;
             } else {
-                strObject += (charLang == 'el') ? `"street":"${addresses[addressIndex].street_el} ${streetNum}","zip":"${addresses[addressIndex].zip}","district":"${addresses[addressIndex].district_el}","region":"${addresses[addressIndex].region_el}",` :
-                    `"street":"${addresses[addressIndex].street_en} ${streetNum}","zip":"${addresses[addressIndex].zip}","district":"${addresses[addressIndex].district_en}","region":"${addresses[addressIndex].region_en}",`;
+                strObject += (charLang == 'el')
+                    ? `"street":"${addresses[addressIndex].street_el} ${streetNum}","zip":"${addresses[addressIndex].zip}","district":"${addresses[addressIndex].district_el}","region":"${addresses[addressIndex].region_el}",`
+                    : `"street":"${addresses[addressIndex].street_en} ${streetNum}","zip":"${addresses[addressIndex].zip}","district":"${addresses[addressIndex].district_en}","region":"${addresses[addressIndex].region_en}",`;
             }
         }
 
@@ -517,10 +566,10 @@ function createRecordset() {
     save2Disk();
 }
 
-
 function save2Disk() {
     let filePath = getSavePath();
     let dialogOptions = {};
+    let strObject = '';
 
     if (filePath) {
         filePath += `.${export2}`;
@@ -533,29 +582,36 @@ function save2Disk() {
             case "xlsx":
             case "csv":
                 let xlArray = [];
-                let strObject = '';
                 const workbook = new Excel.Workbook();
                 workbook.created = new Date();
                 const sheet = workbook.addWorksheet('Data');
-                Object.keys(recordSet[0]).forEach(key => {
-                    strObject = `{"header":"${key}","key":"${key}"}`;
-                    xlArray.push(JSON.parse(strObject));
-                });
+                Object
+                    .keys(recordSet[0])
+                    .forEach(key => {
+                        strObject = `{"header":"${key}","key":"${key}"}`;
+                        xlArray.push(JSON.parse(strObject));
+                    });
 
                 sheet.columns = Array.from(xlArray);
 
                 recordSet.forEach((record) => {
                     strObject = '{';
-                    Object.values(record).forEach((value) => {
-                        strObject += `"${Object.keys(record).find(key => record[key] === value)}":"${value}",`;
-                    });
+                    Object
+                        .values(record)
+                        .forEach((value) => {
+                            strObject += `"${Object
+                                .keys(record)
+                                .find(key => record[key] === value)}":"${value}",`;
+                        });
                     strObject = strObject.slice(0, strObject.length - 1);
                     strObject += '}';
                     sheet.addRow(JSON.parse(strObject));
                 });
 
                 if (export2 == 'xlsx') {
-                    workbook.xlsx.writeFile(filePath)
+                    workbook
+                        .xlsx
+                        .writeFile(filePath)
                         .then(function () {
                             dialog.showMessageBox(mainWin, dialogOptions);
                         })
@@ -566,7 +622,9 @@ function save2Disk() {
                             dialog.showMessageBox(mainWin, dialogOptions);
                         });
                 } else {
-                    workbook.csv.writeFile(filePath)
+                    workbook
+                        .csv
+                        .writeFile(filePath)
                         .then(function () {
                             dialog.showMessageBox(mainWin, dialogOptions);
                         })
@@ -578,9 +636,75 @@ function save2Disk() {
                         });
                 }
                 break;
+            case "sql":
+                let tableName = 'userData';
+                let fieldNames = Object.keys(recordSet[0]);
+
+                prompt({
+                    title: 'Database Table Name',
+                    label: 'Give table name:',
+                    value: tableName,
+                    inputAttrs: {
+                        type: 'text'
+                    },
+                    type: 'input'
+                }).then((res) => {
+                    if (res != null) {
+                        tableName = res;
+                    }
+
+                    recordSet.forEach((record) => {
+                        strObject += `Insert into ${tableName}(${fieldNames}) values(`;
+
+                        Object
+                            .values(record)
+                            .forEach((value) => {
+                                strObject += (record["ID"] === value) ? `${value},` : `'${value}',`;
+                            });
+
+                        strObject = strObject.slice(0, strObject.length - 1);
+                        strObject += ');\n';
+                    });
+
+                    fs.writeFile(filePath, strObject, 'utf8', (err) => {
+                        if (err) {
+                            dialogOptions.message = 'Couldn\'t save the file.';
+                            dialogOptions.type = 'error';
+                            dialogOptions.detail = err.message;
+                        }
+                        dialog.showMessageBox(mainWin, dialogOptions);
+                    });
+
+                }).catch(console.error);
+
+                break;
             case "json":
 
                 fs.writeFile(filePath, JSON.stringify(recordSet), 'utf8', (err) => {
+                    if (err) {
+                        dialogOptions.message = 'Couldn\'t save the file.';
+                        dialogOptions.type = 'error';
+                        dialogOptions.detail = err.message;
+                    }
+                    dialog.showMessageBox(mainWin, dialogOptions);
+                });
+                break;
+            case "xml":
+                strObject = '<?xml version="1.0" encoding="UTF-8"?>\n<userData>\n';
+                recordSet.forEach((record) => {
+                    strObject += '<user>\n';
+
+                    Object
+                        .keys(record)
+                        .forEach((key) => {
+                            strObject += `<${key}>${record[key]}</${key}>\n`;
+                        });
+
+                    strObject += '</user>\n';
+                });
+                strObject += '</userData>';
+
+                fs.writeFile(filePath, strObject, 'utf8', (err) => {
                     if (err) {
                         dialogOptions.message = 'Couldn\'t save the file.';
                         dialogOptions.type = 'error';
@@ -592,7 +716,6 @@ function save2Disk() {
     }
 
 }
-
 
 const menu = Menu.buildFromTemplate(template)
 Menu.setApplicationMenu(menu)
