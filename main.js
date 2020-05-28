@@ -21,6 +21,8 @@ let email = null;
 let phone = null
 let mobile = null;
 let address = null;
+let vatid = null;
+let dob = null;
 
 let recNumber = 0;
 let gender = '';
@@ -167,8 +169,8 @@ function fetchDataFromDB(fileName) {
     });
 }
 
-function getRandomNumber(max) {
-    return Math.floor(Math.random() * max);
+function getRandomNumber(min, max) {
+    return Math.floor(Math.random() * (max - min)) + min;
 }
 
 function getLNames(data) {
@@ -221,19 +223,19 @@ function getSavePath(fileType) {
 
 function createPhoneNumber(phoneType) {
     let prefix = (phoneType === 'mobile')
-        ? `${phones[getRandomNumber(phones.length)].mobile}`
-        : `${phones[getRandomNumber(phones.length)].phone}`;
+        ? `${phones[getRandomNumber(0, phones.length)].mobile}`
+        : `${phones[getRandomNumber(0, phones.length)].phone}`;
     let pNumber = '';
 
     for (let i = 0; i < 7; i++) {
-        pNumber += getRandomNumber(10);
+        pNumber += getRandomNumber(0, 10);
     }
 
     return `${prefix}${pNumber}`;
 }
 
 function createEmail(username) {
-    return `${username}@${emails[getRandomNumber(emails.length)].provider}`;
+    return `${username}@${emails[getRandomNumber(0, emails.length)].provider}`;
 }
 
 function createUsername(fname, lname) {
@@ -307,10 +309,32 @@ function createPassword(charAmount) {
 
     for (let i = 0; i < charAmount; i++) {
 
-        pass += chars[getRandomNumber(chars.length)];
+        pass += chars[getRandomNumber(0, chars.length)];
     }
 
     return pass;
+}
+
+function createVATID() {
+    let digit = -1;
+    let lastDigit = -1;
+    let VATID = '';
+    let result = 0;
+
+    for (let i = 8; i >= 1; i--) {
+        digit = getRandomNumber(0, 10);
+        VATID += digit.toString();
+        result += digit * Math.pow(2, i);
+    }
+    lastDigit = (result % 11) % 10;
+    VATID += lastDigit;
+    return VATID;
+}
+
+function createDOB(yearFrom, yearTo) {
+    let beginDate = new Date(yearFrom, 0, 1);
+    let endDate = new Date(yearTo, 11, 31);
+    return new Date(Math.random() * (endDate.getTime() - beginDate.getTime()) + beginDate.getTime());
 }
 
 function getData(formValues) {
@@ -330,6 +354,8 @@ function getData(formValues) {
     phone = null
     mobile = null;
     address = null;
+    vatid = null;
+    dob = null;
 
     fnames = [];
     lnames = [];
@@ -365,8 +391,11 @@ function getData(formValues) {
             case 'mobile':
                 mobile = element.value;
                 break;
-            case 'address':
-                address = element.value;
+            case 'vatid':
+                vatid = element.value;
+                break;
+            case 'DOB':
+                dob = element.value;
                 break;
 
             case 'gender':
@@ -490,12 +519,12 @@ function createRecordset() {
         strObject = (id)
             ? `{"ID":${count + 1},`
             : '{';
-        let fnameIndex = getRandomNumber(fnames.length);
-        let lnameIndex = getRandomNumber(lnames.length);
+        let fnameIndex = getRandomNumber(0, fnames.length);
+        let lnameIndex = getRandomNumber(0, lnames.length);
 
         if ((gender == 'b') && (fnames.length > 0) && (lnames.length > 0)) {
             while (fnames[fnameIndex].gender != lnames[lnameIndex].gender) {
-                lnameIndex = getRandomNumber(lnames.length);
+                lnameIndex = getRandomNumber(0, lnames.length);
             }
 
         }
@@ -544,10 +573,8 @@ function createRecordset() {
         }
 
         if (address) {
-            let addressIndex = getRandomNumber(addresses.length);
-            let streetNum = (getRandomNumber(100) == 0)
-                ? 1
-                : getRandomNumber(100);
+            let addressIndex = getRandomNumber(0, addresses.length);
+            let streetNum = getRandomNumber(1, 101);
             if (charLang == 'bo') {
                 strObject += `"street_el":"${addresses[addressIndex].street_el} ${streetNum}","zip":"${addresses[addressIndex].zip}","district_el":"${addresses[addressIndex].district_el}","region_el":"${addresses[addressIndex].region_el}",`;
                 strObject += `"street_en":"${addresses[addressIndex].street_en} ${streetNum}","district_en":"${addresses[addressIndex].district_en}","region_en":"${addresses[addressIndex].region_en}",`;
@@ -556,6 +583,19 @@ function createRecordset() {
                     ? `"street":"${addresses[addressIndex].street_el} ${streetNum}","zip":"${addresses[addressIndex].zip}","district":"${addresses[addressIndex].district_el}","region":"${addresses[addressIndex].region_el}",`
                     : `"street":"${addresses[addressIndex].street_en} ${streetNum}","zip":"${addresses[addressIndex].zip}","district":"${addresses[addressIndex].district_en}","region":"${addresses[addressIndex].region_en}",`;
             }
+        }
+
+        if (vatid) {
+            strObject += `"${vatid}":"${createVATID()}",`;
+        }
+
+        if (dob) {
+            let today = new Date();
+            let yearFrom = today.getFullYear() - 67;
+            let yearTo = today.getFullYear() - 18;
+            let date = createDOB(yearFrom, yearTo);
+
+            strObject += `"${dob}":"${(date.getDate() < 10) ? '0' + date.getDate() : date.getDate()}/${(date.getMonth() + 1 < 10) ? '0' + (date.getMonth() + 1) : date.getMonth() + 1}/${date.getFullYear()}",`;
         }
 
         strObject = strObject.slice(0, strObject.length - 1);

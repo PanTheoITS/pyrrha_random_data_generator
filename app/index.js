@@ -23,13 +23,12 @@ textFields.forEach((textField) => {
 
 let spans = document.querySelectorAll('span');
 spans.forEach((span) => {
-    span.classList.add('delField');
     span.title = 'Disable Field';
     span.addEventListener('click', (event) => {
         let field = event.target.parentElement.previousElementSibling.children[1];
         let selSpan = event.target;
         if (selSpan.getAttribute('id')) {
-            let fieldTemplate = `<input class="form-control" type="text" name="${selSpan.getAttribute('id')}" value="${selSpan.getAttribute('id')}" maxlength="20">`;
+            let fieldTemplate = `<input class="form-control" type="text" name="${selSpan.getAttribute('id')}" value="${selSpan.getAttribute('id')}" maxlength="20" title="You can change the name of this field (20 characters max).">`;
             let fieldParent = event.target.parentElement.previousElementSibling;
             fieldParent.innerHTML += fieldTemplate;
             selSpan.innerHTML = '&#9746;';
