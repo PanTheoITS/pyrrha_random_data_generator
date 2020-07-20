@@ -1,1 +1,3399 @@
-[{"lname_el":"Αβραμίδης","lname_en":"Avramidis","gender":"m"},{"lname_el":"Αγγελίδης","lname_en":"Angelidis","gender":"m"},{"lname_el":"Αγγελόπουλος","lname_en":"Angelopoulos","gender":"m"},{"lname_el":"Αθανασιάδης","lname_en":"Athanasiadis","gender":"m"},{"lname_el":"Αθανασίου","lname_en":"Athanasiou","gender":"m"},{"lname_el":"Αθανασούλας","lname_en":"Athanasoulas","gender":"m"},{"lname_el":"Ακρίδας","lname_en":"Akridas","gender":"m"},{"lname_el":"Αλαβάνος","lname_en":"Alavanos","gender":"m"},{"lname_el":"Αλαφούζος","lname_en":"Alafouzos","gender":"m"},{"lname_el":"Αλεβιζόπουλος","lname_en":"Alevizopoulos","gender":"m"},{"lname_el":"Αλεξάκης","lname_en":"Alexakis","gender":"m"},{"lname_el":"Αλεξανδρίδης","lname_en":"Alexandridis","gender":"m"},{"lname_el":"Αλεξάνδρου","lname_en":"Alexandrou","gender":"m"},{"lname_el":"Αλεξιάδης","lname_en":"Alexiadis","gender":"m"},{"lname_el":"Αλεξίου","lname_en":"Alexiou","gender":"m"},{"lname_el":"Αλεξόπουλος","lname_en":"Alexopoulos","gender":"m"},{"lname_el":"Αλιβιζάτος","lname_en":"Alivizatos","gender":"m"},{"lname_el":"Αμανατίδης","lname_en":"Amanatidis","gender":"m"},{"lname_el":"Αναγνωστάκης","lname_en":"Anagnostakis","gender":"m"},{"lname_el":"Αναγνωστόπουλος","lname_en":"Anagnostopoulos","gender":"m"},{"lname_el":"Αναγνώστου","lname_en":"Anagnostou","gender":"m"},{"lname_el":"Αναστασιάδης","lname_en":"Anastasiadis","gender":"m"},{"lname_el":"Ανδρεαδάκης","lname_en":"Andreadakis","gender":"m"},{"lname_el":"Ανδρεάδης","lname_en":"Andreadis","gender":"m"},{"lname_el":"Ανδρέου","lname_en":"Andreou","gender":"m"},{"lname_el":"Ανδριανόπουλος","lname_en":"Andrianopoulos","gender":"m"},{"lname_el":"Ανδρουλάκης","lname_en":"Androulakis","gender":"m"},{"lname_el":"Αντωνιάδης","lname_en":"Antoniadis","gender":"m"},{"lname_el":"Αντωνόπουλος","lname_en":"Antonopoulos","gender":"m"},{"lname_el":"Αντωνοπούλου","lname_en":"Antonopoulou","gender":"m"},{"lname_el":"Αξιώτης","lname_en":"Axiotis","gender":"m"},{"lname_el":"Αποστολάκης","lname_en":"Apostolakis","gender":"m"},{"lname_el":"Αποστολίδης","lname_en":"Apostolidis","gender":"m"},{"lname_el":"Αποστόλου","lname_en":"Apostolou","gender":"m"},{"lname_el":"Αρβανίτης","lname_en":"Arvanitis","gender":"m"},{"lname_el":"Αργυράκης","lname_en":"Argyrakis","gender":"m"},{"lname_el":"Αργυράκος","lname_en":"Argyrakos","gender":"m"},{"lname_el":"Αργυριάδης","lname_en":"Argyriadis","gender":"m"},{"lname_el":"Αργυρός","lname_en":"Argyros","gender":"m"},{"lname_el":"Ασλανίδης","lname_en":"Aslanidis","gender":"m"},{"lname_el":"Αυγερινός","lname_en":"Avgerinos","gender":"m"},{"lname_el":"Βαμβακάς","lname_en":"Vamvakas","gender":"m"},{"lname_el":"Βάμβας","lname_en":"Vamvas","gender":"m"},{"lname_el":"Βαρνακιώτης","lname_en":"Varnakiotis","gender":"m"},{"lname_el":"Βαρουξής","lname_en":"Varouxis","gender":"m"},{"lname_el":"Βασιλειάδης","lname_en":"Vasileiadis","gender":"m"},{"lname_el":"Βασιλείου","lname_en":"Vasileiou","gender":"m"},{"lname_el":"Βασιλικός","lname_en":"Vasilikos","gender":"m"},{"lname_el":"Βασιλόπουλος","lname_en":"Vasilopoulos","gender":"m"},{"lname_el":"Βενιζέλος","lname_en":"Venizelos","gender":"m"},{"lname_el":"Βέργας","lname_en":"Vergas","gender":"m"},{"lname_el":"Βικελίδης","lname_en":"Vikelidis","gender":"m"},{"lname_el":"Βιλαέτης","lname_en":"Vilaetis","gender":"m"},{"lname_el":"Βιτάλη","lname_en":"Vitali","gender":"m"},{"lname_el":"Βιτάλης","lname_en":"Vitalis","gender":"m"},{"lname_el":"Βλαβιανός","lname_en":"Vlavianos","gender":"m"},{"lname_el":"Βλαστός","lname_en":"Vlastos","gender":"m"},{"lname_el":"Βλαχόπουλος","lname_en":"Vlachopoulos","gender":"m"},{"lname_el":"Βογιατζής","lname_en":"Vogiatzis","gender":"m"},{"lname_el":"Βονόρτας","lname_en":"Vonortas","gender":"m"},{"lname_el":"Βουγιουκλάκης","lname_en":"Vougiouklakis","gender":"m"},{"lname_el":"Βούλγαρης","lname_en":"Voulgaris","gender":"m"},{"lname_el":"Βούλτεψης","lname_en":"Voultepsis","gender":"m"},{"lname_el":"Βουρδουμπάς","lname_en":"Vourdoumpas","gender":"m"},{"lname_el":"Βούρος","lname_en":"Vouros","gender":"m"},{"lname_el":"Βυζάντιος","lname_en":"Vyzantios","gender":"m"},{"lname_el":"Γαλάνη","lname_en":"Galani","gender":"m"},{"lname_el":"Γαλάνης","lname_en":"Galanis","gender":"m"},{"lname_el":"Γαλανόπουλος","lname_en":"Galanopoulos","gender":"m"},{"lname_el":"Γεννάδιος","lname_en":"Gennadios","gender":"m"},{"lname_el":"Γεννηματάς","lname_en":"Gennimatas","gender":"m"},{"lname_el":"Γερμανός","lname_en":"Germanos","gender":"m"},{"lname_el":"Γεωργιάδης","lname_en":"Georgiadis","gender":"m"},{"lname_el":"Γεωργίου","lname_en":"Georgiou","gender":"m"},{"lname_el":"Γιάγκος","lname_en":"Giagkos","gender":"m"},{"lname_el":"Γιαλαμάς","lname_en":"Gialamas","gender":"m"},{"lname_el":"Γιαννάκης","lname_en":"Giannakis","gender":"m"},{"lname_el":"Γιαννακόπουλος","lname_en":"Giannakopoulos","gender":"m"},{"lname_el":"Γιάνναρης","lname_en":"Giannaris","gender":"m"},{"lname_el":"Γιαννόπουλος","lname_en":"Giannopoulos","gender":"m"},{"lname_el":"Γιαννούλης","lname_en":"Giannoulis","gender":"m"},{"lname_el":"Γιωτόπουλος","lname_en":"Giotopoulos","gender":"m"},{"lname_el":"Γκόφας","lname_en":"Gkofas","gender":"m"},{"lname_el":"Γλυκύς","lname_en":"Glykys","gender":"m"},{"lname_el":"Γουδής","lname_en":"Goudis","gender":"m"},{"lname_el":"Γούναρης","lname_en":"Gounaris","gender":"m"},{"lname_el":"Γούσιος","lname_en":"Gousios","gender":"m"},{"lname_el":"Γραμματικόπουλος","lname_en":"Grammatikopoulos","gender":"m"},{"lname_el":"Δάβης","lname_en":"Davis","gender":"m"},{"lname_el":"Δαγκλής","lname_en":"Dagklis","gender":"m"},{"lname_el":"Δαμασιώτης","lname_en":"Damasiotis","gender":"m"},{"lname_el":"Δαμασκηνός","lname_en":"Damaskinos","gender":"m"},{"lname_el":"Δασκαλάκης","lname_en":"Daskalakis","gender":"m"},{"lname_el":"Δασκαλόπουλος","lname_en":"Daskalopoulos","gender":"m"},{"lname_el":"Δελής","lname_en":"Delis","gender":"m"},{"lname_el":"Δεσποτόπουλος","lname_en":"Despotopoulos","gender":"m"},{"lname_el":"Δημακόπουλος","lname_en":"Dimakopoulos","gender":"m"},{"lname_el":"Δημαράς","lname_en":"Dimaras","gender":"m"},{"lname_el":"Δημητρακόπουλος","lname_en":"Dimitrakopoulos","gender":"m"},{"lname_el":"Δημητρίου","lname_en":"Dimitriou","gender":"m"},{"lname_el":"Διαμαντής","lname_en":"Diamantis","gender":"m"},{"lname_el":"Διαμαντόπουλος","lname_en":"Diamantopoulos","gender":"m"},{"lname_el":"Διδασκάλου","lname_en":"Didaskalou","gender":"m"},{"lname_el":"Δοξαράς","lname_en":"Doxaras","gender":"m"},{"lname_el":"Δουμπιώτης","lname_en":"Doumpiotis","gender":"m"},{"lname_el":"Δουρέντης","lname_en":"Dourentis","gender":"m"},{"lname_el":"Δραγούμης","lname_en":"Dragoumis","gender":"m"},{"lname_el":"Δράκος","lname_en":"Drakos","gender":"m"},{"lname_el":"Δυοβουνιώτης","lname_en":"Dyovouniotis","gender":"m"},{"lname_el":"Έβερτ","lname_en":"Evert","gender":"m"},{"lname_el":"Ελευθεριάδης","lname_en":"Eleftheriadis","gender":"m"},{"lname_el":"Ελευθερίου","lname_en":"Eleftheriou","gender":"m"},{"lname_el":"Ελευθερόπουλος","lname_en":"Eleftheropoulos","gender":"m"},{"lname_el":"Ευθυμιάδης","lname_en":"Efthymiadis","gender":"m"},{"lname_el":"Ευταξίας","lname_en":"Eftaxias","gender":"m"},{"lname_el":"Ζαΐμης","lname_en":"Zaimis","gender":"m"},{"lname_el":"Ζάνος","lname_en":"Zanos","gender":"m"},{"lname_el":"Ζάππας","lname_en":"Zappas","gender":"m"},{"lname_el":"Ζάρκος","lname_en":"Zarkos","gender":"m"},{"lname_el":"Ζαφειρόπουλος","lname_en":"Zafeiropoulos","gender":"m"},{"lname_el":"Ζαχαρίου","lname_en":"Zachariou","gender":"m"},{"lname_el":"Ζάχος","lname_en":"Zachos","gender":"m"},{"lname_el":"Ζέρβας","lname_en":"Zervas","gender":"m"},{"lname_el":"Ζερβός","lname_en":"Zervos","gender":"m"},{"lname_el":"Ζυγομαλάς","lname_en":"Zygomalas","gender":"m"},{"lname_el":"Ζωγράφος","lname_en":"Zografos","gender":"m"},{"lname_el":"Ηλιάδης","lname_en":"Iliadis","gender":"m"},{"lname_el":"Ηλιόπουλος","lname_en":"Iliopoulos","gender":"m"},{"lname_el":"Θάνου","lname_en":"Thanou","gender":"m"},{"lname_el":"Θεοδοσίου","lname_en":"Theodosiou","gender":"m"},{"lname_el":"Θεοδοσόπουλος","lname_en":"Theodosopoulos","gender":"m"},{"lname_el":"Θεοδωρίδης","lname_en":"Theodoridis","gender":"m"},{"lname_el":"Θεοτόκης","lname_en":"Theotokis","gender":"m"},{"lname_el":"Ιορδανίδου","lname_en":"Iordanidou","gender":"m"},{"lname_el":"Ιωαννίδης","lname_en":"Ioannidis","gender":"m"},{"lname_el":"Ιωάννου","lname_en":"Ioannou","gender":"m"},{"lname_el":"Καβαλούρης","lname_en":"Kavalouris","gender":"m"},{"lname_el":"Καζάκης","lname_en":"Kazakis","gender":"m"},{"lname_el":"Καζάκος","lname_en":"Kazakos","gender":"m"},{"lname_el":"Καζαντζής","lname_en":"Kazantzis","gender":"m"},{"lname_el":"Κακριδής","lname_en":"Kakridis","gender":"m"},{"lname_el":"Καλαμογδάρτης","lname_en":"Kalamogdartis","gender":"m"},{"lname_el":"Καλάρης","lname_en":"Kalaris","gender":"m"},{"lname_el":"Καλλιγάς","lname_en":"Kalligas","gender":"m"},{"lname_el":"Καλογεράς","lname_en":"Kalogeras","gender":"m"},{"lname_el":"Καλογιάννης","lname_en":"Kalogiannis","gender":"m"},{"lname_el":"Καλομοίρης","lname_en":"Kalomoiris","gender":"m"},{"lname_el":"Καλύβας","lname_en":"Kalyvas","gender":"m"},{"lname_el":"Καμπούρης","lname_en":"Kampouris","gender":"m"},{"lname_el":"Κανακάρης-Ρούφος","lname_en":"Kanakaris-Roufos","gender":"m"},{"lname_el":"Καραβίας","lname_en":"Karavias","gender":"m"},{"lname_el":"Καρακάσης","lname_en":"Karakasis","gender":"m"},{"lname_el":"Καραμάνος","lname_en":"Karamanos","gender":"m"},{"lname_el":"Καρατζαφέρης","lname_en":"Karatzaferis","gender":"m"},{"lname_el":"Καρέλιας","lname_en":"Karelias","gender":"m"},{"lname_el":"Καρράς","lname_en":"Karras","gender":"m"},{"lname_el":"Κασιδιάρης","lname_en":"Kasidiaris","gender":"m"},{"lname_el":"Κατσιγιάννης","lname_en":"Katsigiannis","gender":"m"},{"lname_el":"Καψής","lname_en":"Kapsis","gender":"m"},{"lname_el":"Κεδίκογλου","lname_en":"Kedikoglou","gender":"m"},{"lname_el":"Κεφαλογιάννης","lname_en":"Kefalogiannis","gender":"m"},{"lname_el":"Κεχαγιάς","lname_en":"Kechagias","gender":"m"},{"lname_el":"Κοκκινάκης","lname_en":"Kokkinakis","gender":"m"},{"lname_el":"Κολιάτσος","lname_en":"Koliatsos","gender":"m"},{"lname_el":"Κομνηνός","lname_en":"Komninos","gender":"m"},{"lname_el":"Κονδύλης","lname_en":"Kondylis","gender":"m"},{"lname_el":"Κοντολέων","lname_en":"Kontoleon","gender":"m"},{"lname_el":"Κοντόσταυλος","lname_en":"Kontostavlos","gender":"m"},{"lname_el":"Κορακάκης","lname_en":"Korakakis","gender":"m"},{"lname_el":"Κόρακας","lname_en":"Korakas","gender":"m"},{"lname_el":"Κορνάρος","lname_en":"Kornaros","gender":"m"},{"lname_el":"Κορομηλάς","lname_en":"Koromilas","gender":"m"},{"lname_el":"Κορωναίος","lname_en":"Koronaios","gender":"m"},{"lname_el":"Κοσμόπουλος","lname_en":"Kosmopoulos","gender":"m"},{"lname_el":"Κοτζιάς","lname_en":"Kotzias","gender":"m"},{"lname_el":"Κουβέλης","lname_en":"Kouvelis","gender":"m"},{"lname_el":"Κούνδουρος","lname_en":"Koundouros","gender":"m"},{"lname_el":"Κουντουριώτης","lname_en":"Kountouriotis","gender":"m"},{"lname_el":"Κουρμούλης","lname_en":"Kourmoulis","gender":"m"},{"lname_el":"Κουρτίδης","lname_en":"Kourtidis","gender":"m"},{"lname_el":"Κουταλιανός","lname_en":"Koutalianos","gender":"m"},{"lname_el":"Κρεστενίτης","lname_en":"Krestenitis","gender":"m"},{"lname_el":"Κυπραίος","lname_en":"Kypraios","gender":"m"},{"lname_el":"Κυριακίδης","lname_en":"Kyriakidis","gender":"m"},{"lname_el":"Κωνσταντίνου","lname_en":"Konstantinou","gender":"m"},{"lname_el":"Κωνσταντόπουλος","lname_en":"Konstantopoulos","gender":"m"},{"lname_el":"Κωστής","lname_en":"Kostis","gender":"m"},{"lname_el":"Λαγός","lname_en":"Lagos","gender":"m"},{"lname_el":"Λαγουδάκης","lname_en":"Lagoudakis","gender":"m"},{"lname_el":"Λαζόπουλος","lname_en":"Lazopoulos","gender":"m"},{"lname_el":"Λαιμός","lname_en":"Laimos","gender":"m"},{"lname_el":"Λάιος","lname_en":"Laios","gender":"m"},{"lname_el":"Λαμέρας","lname_en":"Lameras","gender":"m"},{"lname_el":"Λαμπάκης","lname_en":"Lampakis","gender":"m"},{"lname_el":"Λαμπρόπουλος","lname_en":"Lampropoulos","gender":"m"},{"lname_el":"Λειβαδάς","lname_en":"Leivadas","gender":"m"},{"lname_el":"Λειβαδίτης","lname_en":"Leivaditis","gender":"m"},{"lname_el":"Λεπενιώτης","lname_en":"Lepeniotis","gender":"m"},{"lname_el":"Λιακόπουλος","lname_en":"Liakopoulos","gender":"m"},{"lname_el":"Λιάπης","lname_en":"Liapis","gender":"m"},{"lname_el":"Λογοθετόπουλος","lname_en":"Logothetopoulos","gender":"m"},{"lname_el":"Λόντος","lname_en":"Lontos","gender":"m"},{"lname_el":"Λούπης","lname_en":"Loupis","gender":"m"},{"lname_el":"Λύκος","lname_en":"Lykos","gender":"m"},{"lname_el":"Λύτρας","lname_en":"Lytras","gender":"m"},{"lname_el":"Μαγγίνας","lname_en":"Manginas","gender":"m"},{"lname_el":"Μάγκας","lname_en":"Magkas","gender":"m"},{"lname_el":"Μακρής","lname_en":"Makris","gender":"m"},{"lname_el":"Μαλαξός","lname_en":"Malaxos","gender":"m"},{"lname_el":"Μάμος","lname_en":"Mamos","gender":"m"},{"lname_el":"Μανιάκης","lname_en":"Maniakis","gender":"m"},{"lname_el":"Μανούσης","lname_en":"Manousis","gender":"m"},{"lname_el":"Μανωλάς","lname_en":"Manolas","gender":"m"},{"lname_el":"Μαραγκός","lname_en":"Maragkos","gender":"m"},{"lname_el":"Μαργαρίτης","lname_en":"Margaritis","gender":"m"},{"lname_el":"Μαρής","lname_en":"Maris","gender":"m"},{"lname_el":"Μαρινάκης","lname_en":"Marinakis","gender":"m"},{"lname_el":"Μαρκόπουλος","lname_en":"Markopoulos","gender":"m"},{"lname_el":"Μαυρίδης","lname_en":"Mavridis","gender":"m"},{"lname_el":"Μαυρογένης","lname_en":"Mavrogenis","gender":"m"},{"lname_el":"Μελετόπουλος","lname_en":"Meletopoulos","gender":"m"},{"lname_el":"Μεσσηνέζης","lname_en":"Messinezis","gender":"m"},{"lname_el":"Μεταξάς","lname_en":"Metaxas","gender":"m"},{"lname_el":"Μήτζου","lname_en":"Mitzou","gender":"m"},{"lname_el":"Μήτρας","lname_en":"Mitras","gender":"m"},{"lname_el":"Μητρόπουλος","lname_en":"Mitropoulos","gender":"m"},{"lname_el":"Μητσοτάκης","lname_en":"Mitsotakis","gender":"m"},{"lname_el":"Μιαούλης","lname_en":"Miaoulis","gender":"m"},{"lname_el":"Μιχαηλίδης","lname_en":"Michailidis","gender":"m"},{"lname_el":"Μιχαλολιάκος","lname_en":"Michaloliakos","gender":"m"},{"lname_el":"Μολφέτας","lname_en":"Molfetas","gender":"m"},{"lname_el":"Μοσχοβάκης","lname_en":"Moschovakis","gender":"m"},{"lname_el":"Μόσχος","lname_en":"Moschos","gender":"m"},{"lname_el":"Μουζάκης","lname_en":"Mouzakis","gender":"m"},{"lname_el":"Μουσούρης","lname_en":"Mousouris","gender":"m"},{"lname_el":"Μουστάκας","lname_en":"Moustakas","gender":"m"},{"lname_el":"Μπακογιάννης","lname_en":"Bakogiannis","gender":"m"},{"lname_el":"Μπαλάνος","lname_en":"Balanos","gender":"m"},{"lname_el":"Μπαστιάς","lname_en":"Bastias","gender":"m"},{"lname_el":"Μπέζος","lname_en":"Bezos","gender":"m"},{"lname_el":"Μπλέτσας","lname_en":"Bletsas","gender":"m"},{"lname_el":"Μπογδάνος","lname_en":"Bogdanos","gender":"m"},{"lname_el":"Μπότσαρης","lname_en":"Botsaris","gender":"m"},{"lname_el":"Μπουκουβάλας","lname_en":"Boukouvalas","gender":"m"},{"lname_el":"Μυλωνάς","lname_en":"Mylonas","gender":"m"},{"lname_el":"Μώραλης","lname_en":"Moralis","gender":"m"},{"lname_el":"Νάκος","lname_en":"Nakos","gender":"m"},{"lname_el":"Νάστος","lname_en":"Nastos","gender":"m"},{"lname_el":"Νικολαΐδης","lname_en":"Nikolaidis","gender":"m"},{"lname_el":"Νικολάκος","lname_en":"Nikolakos","gender":"m"},{"lname_el":"Νικολάου","lname_en":"Nikolaou","gender":"m"},{"lname_el":"Ξανθόπουλος","lname_en":"Xanthopoulos","gender":"m"},{"lname_el":"Οικονομάκος","lname_en":"Oikonomakos","gender":"m"},{"lname_el":"Οικονομίδης","lname_en":"Oikonomidis","gender":"m"},{"lname_el":"Οικονόμου","lname_en":"Oikonomou","gender":"m"},{"lname_el":"Ουζουνίδης","lname_en":"Ouzounidis","gender":"m"},{"lname_el":"Παναγούλης","lname_en":"Panagoulis","gender":"m"},{"lname_el":"Πανταζής","lname_en":"Pantazis","gender":"m"},{"lname_el":"Παπαγεωργίου","lname_en":"Papageorgiou","gender":"m"},{"lname_el":"Παπάγος","lname_en":"Papagos","gender":"m"},{"lname_el":"Παπαδάκης","lname_en":"Papadakis","gender":"m"},{"lname_el":"Παπαδήμας","lname_en":"Papadimas","gender":"m"},{"lname_el":"Παπαδήμος","lname_en":"Papadimos","gender":"m"},{"lname_el":"Παπαδόπουλος","lname_en":"Papadopoulos","gender":"m"},{"lname_el":"Παπάζογλου","lname_en":"Papazoglou","gender":"m"},{"lname_el":"Παπαϊωάννου","lname_en":"Papaioannou","gender":"m"},{"lname_el":"Παπακωνσταντίνου","lname_en":"Papakonstantinou","gender":"m"},{"lname_el":"Παπακώστας","lname_en":"Papakostas","gender":"m"},{"lname_el":"Παπαμιχαήλ","lname_en":"Papamichail","gender":"m"},{"lname_el":"Παπανδρέου","lname_en":"Papandreou","gender":"m"},{"lname_el":"Παπανικολάου","lname_en":"Papanikolaou","gender":"m"},{"lname_el":"Παπαντωνίου","lname_en":"Papantoniou","gender":"m"},{"lname_el":"Παπαστεφάνου","lname_en":"Papastefanou","gender":"m"},{"lname_el":"Παπαστράτος","lname_en":"Papastratos","gender":"m"},{"lname_el":"Παπαφιλίππου","lname_en":"Papafilippou","gender":"m"},{"lname_el":"Παπαχρήστος","lname_en":"Papachristos","gender":"m"},{"lname_el":"Παπουλίδης","lname_en":"Papoulidis","gender":"m"},{"lname_el":"Παππάς","lname_en":"Pappas","gender":"m"},{"lname_el":"Παράσχος","lname_en":"Paraschos","gender":"m"},{"lname_el":"Πάριος","lname_en":"Parios","gender":"m"},{"lname_el":"Πασαλίδης","lname_en":"Pasalidis","gender":"m"},{"lname_el":"Παυλόπουλος","lname_en":"Pavlopoulos","gender":"m"},{"lname_el":"Παχής","lname_en":"Pachis","gender":"m"},{"lname_el":"Πέππας","lname_en":"Peppas","gender":"m"},{"lname_el":"Πέτσας","lname_en":"Petsas","gender":"m"},{"lname_el":"Πέτσος","lname_en":"Petsos","gender":"m"},{"lname_el":"Πολίτης","lname_en":"Politis","gender":"m"},{"lname_el":"Πουλόπουλος","lname_en":"Poulopoulos","gender":"m"},{"lname_el":"Πρωτονοτάριος","lname_en":"Protonotarios","gender":"m"},{"lname_el":"Πυλαρινός","lname_en":"Pylarinos","gender":"m"},{"lname_el":"Ραγκαβής","lname_en":"Ragkavis","gender":"m"},{"lname_el":"Ράγκος","lname_en":"Ragkos","gender":"m"},{"lname_el":"Ράπτης","lname_en":"Raptis","gender":"m"},{"lname_el":"Ρόκας","lname_en":"Rokas","gender":"m"},{"lname_el":"Σακελλαρίου","lname_en":"Sakellariou","gender":"m"},{"lname_el":"Σαμαράς","lname_en":"Samaras","gender":"m"},{"lname_el":"Σερπετζόγλου","lname_en":"Serpetzoglou","gender":"m"},{"lname_el":"Σίδερης","lname_en":"Sideris","gender":"m"},{"lname_el":"Σκλαβούνος","lname_en":"Sklavounos","gender":"m"},{"lname_el":"Σκυλακάκης","lname_en":"Skylakakis","gender":"m"},{"lname_el":"Σμυρλής","lname_en":"Smyrlis","gender":"m"},{"lname_el":"Σπανός","lname_en":"Spanos","gender":"m"},{"lname_el":"Σπανουδάκης","lname_en":"Spanoudakis","gender":"m"},{"lname_el":"Σπηλιωτόπουλος","lname_en":"Spiliotopoulos","gender":"m"},{"lname_el":"Σπυρόπουλος","lname_en":"Spyropoulos","gender":"m"},{"lname_el":"Στάμος","lname_en":"Stamos","gender":"m"},{"lname_el":"Σταυρινός","lname_en":"Stavrinos","gender":"m"},{"lname_el":"Στεφανάκης","lname_en":"Stefanakis","gender":"m"},{"lname_el":"Στεφανόπουλος","lname_en":"Stefanopoulos","gender":"m"},{"lname_el":"Συνοδινός","lname_en":"Synodinos","gender":"m"},{"lname_el":"Συρίγος","lname_en":"Syrigos","gender":"m"},{"lname_el":"Ταρσούλη","lname_en":"Tarsouli","gender":"m"},{"lname_el":"Τζέτζης","lname_en":"Tzetzis","gender":"m"},{"lname_el":"Τόγιας","lname_en":"Togias","gender":"m"},{"lname_el":"Τοκατλίδης","lname_en":"Tokatlidis","gender":"m"},{"lname_el":"Τούντας","lname_en":"Tountas","gender":"m"},{"lname_el":"Τριανταφυλλόπουλος","lname_en":"Triantafyllopoulos","gender":"m"},{"lname_el":"Τρικούπης","lname_en":"Trikoupis","gender":"m"},{"lname_el":"Τσαγανέας","lname_en":"Tsaganeas","gender":"m"},{"lname_el":"Τσακαλώτος","lname_en":"Tsakalotos","gender":"m"},{"lname_el":"Τσάκωνας","lname_en":"Tsakonas","gender":"m"},{"lname_el":"Τσάμης","lname_en":"Tsamis","gender":"m"},{"lname_el":"Τσάτσος","lname_en":"Tsatsos","gender":"m"},{"lname_el":"Τσικλητήρας","lname_en":"Tsiklitiras","gender":"m"},{"lname_el":"Τσίπρας","lname_en":"Tsipras","gender":"m"},{"lname_el":"Τσόκος","lname_en":"Tsokos","gender":"m"},{"lname_el":"Τσουκαλάς","lname_en":"Tsoukalas","gender":"m"},{"lname_el":"Φανουράκης","lname_en":"Fanourakis","gender":"m"},{"lname_el":"Φιλιππίδης","lname_en":"Filippidis","gender":"m"},{"lname_el":"Φλέσσας","lname_en":"Flessas","gender":"m"},{"lname_el":"Φλώρος","lname_en":"Floros","gender":"m"},{"lname_el":"Φραγκούδης","lname_en":"Fragkoudis","gender":"m"},{"lname_el":"Φύσσας","lname_en":"Fyssas","gender":"m"},{"lname_el":"Φωτόπουλος","lname_en":"Fotopoulos","gender":"m"},{"lname_el":"Χαριτάκης","lname_en":"Charitakis","gender":"m"},{"lname_el":"Χατζηιωάννου","lname_en":"Chatziioannou","gender":"m"},{"lname_el":"Χατζηπαύλου","lname_en":"Chatzipavlou","gender":"m"},{"lname_el":"Χρηστόπουλος","lname_en":"Christopoulos","gender":"m"},{"lname_el":"Χριστοδουλόπουλος","lname_en":"Christodoulopoulos","gender":"m"},{"lname_el":"Χριστόπουλος","lname_en":"Christopoulos","gender":"m"},{"lname_el":"Ψωμιάδης","lname_en":"Psomiadis","gender":"m"},{"lname_el":"Αβραμίδου","lname_en":"Avramidou","gender":"f"},{"lname_el":"Αγγελίδου","lname_en":"Angelidou","gender":"f"},{"lname_el":"Αγγελοπούλου","lname_en":"Angelopoulou","gender":"f"},{"lname_el":"Αθανασιάδη","lname_en":"Athanasiadi","gender":"f"},{"lname_el":"Αθανασίου","lname_en":"Athanasiou","gender":"f"},{"lname_el":"Αθανασούλα","lname_en":"Athanasoula","gender":"f"},{"lname_el":"Ακρίδα","lname_en":"Akrida","gender":"f"},{"lname_el":"Αλαβάνου","lname_en":"Alavanou","gender":"f"},{"lname_el":"Αλαφούζου","lname_en":"Alafouzou","gender":"f"},{"lname_el":"Αλεβιζοπούλου","lname_en":"Alevizopoulou","gender":"f"},{"lname_el":"Αλεξάκη","lname_en":"Alexaki","gender":"f"},{"lname_el":"Αλεξανδρίδη","lname_en":"Alexandridi","gender":"f"},{"lname_el":"Αλεξάνδρου","lname_en":"Alexandrou","gender":"f"},{"lname_el":"Αλεξιάδη","lname_en":"Alexiadi","gender":"f"},{"lname_el":"Αλεξίου","lname_en":"Alexiou","gender":"f"},{"lname_el":"Αλεξοπούλου","lname_en":"Alexopoulou","gender":"f"},{"lname_el":"Αλιβιζάτου","lname_en":"Alivizatou","gender":"f"},{"lname_el":"Αμανατίδη","lname_en":"Amanatidi","gender":"f"},{"lname_el":"Αναγνωστάκη","lname_en":"Anagnostaki","gender":"f"},{"lname_el":"Αναγνωστοπούλου","lname_en":"Anagnostopoulou","gender":"f"},{"lname_el":"Αναγνώστου","lname_en":"Anagnostou","gender":"f"},{"lname_el":"Αναστασιάδη","lname_en":"Anastasiadi","gender":"f"},{"lname_el":"Ανδρεαδάκη","lname_en":"Andreadaki","gender":"f"},{"lname_el":"Ανδρεάδη","lname_en":"Andreadi","gender":"f"},{"lname_el":"Ανδρέου","lname_en":"Andreou","gender":"f"},{"lname_el":"Ανδριανοπούλου","lname_en":"Andrianopoulou","gender":"f"},{"lname_el":"Ανδρουλάκη","lname_en":"Androulaki","gender":"f"},{"lname_el":"Αντωνιάδη","lname_en":"Antoniadi","gender":"f"},{"lname_el":"Αντωνοπούλου","lname_en":"Antonopoulou","gender":"f"},{"lname_el":"Αξιώτη","lname_en":"Axioti","gender":"f"},{"lname_el":"Αποστολάκη","lname_en":"Apostolaki","gender":"f"},{"lname_el":"Αποστολίδη","lname_en":"Apostolidi","gender":"f"},{"lname_el":"Αποστόλου","lname_en":"Apostolou","gender":"f"},{"lname_el":"Αρβανίτη","lname_en":"Arvaniti","gender":"f"},{"lname_el":"Αργυράκη","lname_en":"Argyraki","gender":"f"},{"lname_el":"Αργυράκου","lname_en":"Argyrakou","gender":"f"},{"lname_el":"Αργυριάδη","lname_en":"Argyriadi","gender":"f"},{"lname_el":"Αργυρού","lname_en":"Argyrou","gender":"f"},{"lname_el":"Ασλανίδη","lname_en":"Aslanidi","gender":"f"},{"lname_el":"Αυγερινού","lname_en":"Avgerinou","gender":"f"},{"lname_el":"Βαμβακά","lname_en":"Vamvaka","gender":"f"},{"lname_el":"Βάμβα","lname_en":"Vamva","gender":"f"},{"lname_el":"Βαρνακιώτη","lname_en":"Varnakioti","gender":"f"},{"lname_el":"Βαρουξή","lname_en":"Varouxi","gender":"f"},{"lname_el":"Βασιλειάδη","lname_en":"Vasileiadi","gender":"f"},{"lname_el":"Βασιλείου","lname_en":"Vasileiou","gender":"f"},{"lname_el":"Βασιλικού","lname_en":"Vasilikou","gender":"f"},{"lname_el":"Βασιλοπούλου","lname_en":"Vasilopoulou","gender":"f"},{"lname_el":"Βενιζέλου","lname_en":"Venizelou","gender":"f"},{"lname_el":"Βέργα","lname_en":"Verga","gender":"f"},{"lname_el":"Βικελίδη","lname_en":"Vikelidi","gender":"f"},{"lname_el":"Βιλαέτη","lname_en":"Vilaeti","gender":"f"},{"lname_el":"Βιτάλη","lname_en":"Vitali","gender":"f"},{"lname_el":"Βλαβιανού","lname_en":"Vlavianou","gender":"f"},{"lname_el":"Βλατού","lname_en":"Vlatou","gender":"f"},{"lname_el":"Βλαχοπούλου","lname_en":"Vlachopoulou","gender":"f"},{"lname_el":"Βογιατζή","lname_en":"Vogiatzi","gender":"f"},{"lname_el":"Βονόρτα","lname_en":"Vonorta","gender":"f"},{"lname_el":"Βουγιουκλάκη","lname_en":"Vougiouklaki","gender":"f"},{"lname_el":"Βούλγαρη","lname_en":"Voulgari","gender":"f"},{"lname_el":"Βούλτεψη","lname_en":"Voultepsi","gender":"f"},{"lname_el":"Βουρδουμπά","lname_en":"Vourdoumpa","gender":"f"},{"lname_el":"Βούρου","lname_en":"Vourou","gender":"f"},{"lname_el":"Βυζαντίου","lname_en":"Vyzantiou","gender":"f"},{"lname_el":"Γαλάνη","lname_en":"Galani","gender":"f"},{"lname_el":"Γαλανοπούλου","lname_en":"Galanopoulou","gender":"f"},{"lname_el":"Γεννάδιου","lname_en":"Gennadiou","gender":"f"},{"lname_el":"Γεννηματά","lname_en":"Gennimata","gender":"f"},{"lname_el":"Γερμανού","lname_en":"Germanou","gender":"f"},{"lname_el":"Γεωργιάδη","lname_en":"Georgiadi","gender":"f"},{"lname_el":"Γεωργίου","lname_en":"Georgiou","gender":"f"},{"lname_el":"Γιάγκου","lname_en":"Giagkou","gender":"f"},{"lname_el":"Γιαλαμά","lname_en":"Gialama","gender":"f"},{"lname_el":"Γιαννάκη","lname_en":"Giannaki","gender":"f"},{"lname_el":"Γιαννακοπούλου","lname_en":"Giannakopoulou","gender":"f"},{"lname_el":"Γιάνναρη","lname_en":"Giannari","gender":"f"},{"lname_el":"Γιαννοπούλου","lname_en":"Giannopoulou","gender":"f"},{"lname_el":"Γιαννούλη","lname_en":"Giannouli","gender":"f"},{"lname_el":"Γιωτοπούλου","lname_en":"Giotopoulou","gender":"f"},{"lname_el":"Γκόφα","lname_en":"Gkofa","gender":"f"},{"lname_el":"Γλυκύ","lname_en":"Glyky","gender":"f"},{"lname_el":"Γουδή","lname_en":"Goudi","gender":"f"},{"lname_el":"Γούναρη","lname_en":"Gounari","gender":"f"},{"lname_el":"Γούσιου","lname_en":"Gousiou","gender":"f"},{"lname_el":"Γραμματικοπούλου","lname_en":"Grammatikopoulou","gender":"f"},{"lname_el":"Δάβη","lname_en":"Davi","gender":"f"},{"lname_el":"Δαγκλή","lname_en":"Dagkli","gender":"f"},{"lname_el":"Δαμασιώτη","lname_en":"Damasioti","gender":"f"},{"lname_el":"Δαμασκηνού","lname_en":"Damaskinou","gender":"f"},{"lname_el":"Δασκαλάκη","lname_en":"Daskalaki","gender":"f"},{"lname_el":"Δασκαλοπούλου","lname_en":"Daskalopoulou","gender":"f"},{"lname_el":"Δελή","lname_en":"Deli","gender":"f"},{"lname_el":"Δεσποτοπούλου","lname_en":"Despotopoulou","gender":"f"},{"lname_el":"Δημακοπούλου","lname_en":"Dimakopoulou","gender":"f"},{"lname_el":"Δημαρά","lname_en":"Dimara","gender":"f"},{"lname_el":"Δημητρακοπούλου","lname_en":"Dimitrakopoulou","gender":"f"},{"lname_el":"Δημητρίου","lname_en":"Dimitriou","gender":"f"},{"lname_el":"Διαμαντή","lname_en":"Diamanti","gender":"f"},{"lname_el":"Διαμαντοπούλου","lname_en":"Diamantopoulou","gender":"f"},{"lname_el":"Διδασκάλου","lname_en":"Didaskalou","gender":"f"},{"lname_el":"Δοξαρά","lname_en":"Doxara","gender":"f"},{"lname_el":"Δουμπιώτη","lname_en":"Doumpioti","gender":"f"},{"lname_el":"Δουρέντη","lname_en":"Dourenti","gender":"f"},{"lname_el":"Δραγούμη","lname_en":"Dragoumi","gender":"f"},{"lname_el":"Δράκου","lname_en":"Drakou","gender":"f"},{"lname_el":"Δυοβουνιώτη","lname_en":"Dyovounioti","gender":"f"},{"lname_el":"Έβερτ","lname_en":"Evert","gender":"f"},{"lname_el":"Ελευθεριάδη","lname_en":"Eleftheriadi","gender":"f"},{"lname_el":"Ελευθερίου","lname_en":"Eleftheriou","gender":"f"},{"lname_el":"Ελευθεροπούλου","lname_en":"Eleftheropoulou","gender":"f"},{"lname_el":"Ευθυμιάδη","lname_en":"Efthymiadi","gender":"f"},{"lname_el":"Ευταξία","lname_en":"Eftaxia","gender":"f"},{"lname_el":"Ζαΐμη","lname_en":"Zaimi","gender":"f"},{"lname_el":"Ζάνου","lname_en":"Zanou","gender":"f"},{"lname_el":"Ζάππα","lname_en":"Zappa","gender":"f"},{"lname_el":"Ζάρκου","lname_en":"Zarkou","gender":"f"},{"lname_el":"Ζαφειροπούλου","lname_en":"Zafeiropoulou","gender":"f"},{"lname_el":"Ζαχαρίου","lname_en":"Zachariou","gender":"f"},{"lname_el":"Ζάχου","lname_en":"Zachou","gender":"f"},{"lname_el":"Ζέρβα","lname_en":"Zerva","gender":"f"},{"lname_el":"Ζερβού","lname_en":"Zervou","gender":"f"},{"lname_el":"Ζυγομαλά","lname_en":"Zygomala","gender":"f"},{"lname_el":"Ζωγράφου","lname_en":"Zografou","gender":"f"},{"lname_el":"Ηλιάδη","lname_en":"Iliadi","gender":"f"},{"lname_el":"Ηλιοπούλου","lname_en":"Iliopoulou","gender":"f"},{"lname_el":"Θάνου","lname_en":"Thanou","gender":"f"},{"lname_el":"Θεοδοσίου","lname_en":"Theodosiou","gender":"f"},{"lname_el":"Θεοδοσοπούλου","lname_en":"Theodosopoulou","gender":"f"},{"lname_el":"Θεοδωρίδη","lname_en":"Theodoridi","gender":"f"},{"lname_el":"Θεοτόκη","lname_en":"Theotoki","gender":"f"},{"lname_el":"Ιορδανίδου","lname_en":"Iordanidou","gender":"f"},{"lname_el":"Ιωαννίδη","lname_en":"Ioannidi","gender":"f"},{"lname_el":"Ιωάννου","lname_en":"Ioannou","gender":"f"},{"lname_el":"Καβαλούρη","lname_en":"Kavalouri","gender":"f"},{"lname_el":"Καζάκη","lname_en":"Kazaki","gender":"f"},{"lname_el":"Καζάκου","lname_en":"Kazakou","gender":"f"},{"lname_el":"Καζαντζή","lname_en":"Kazantzi","gender":"f"},{"lname_el":"Κακριδή","lname_en":"Kakridi","gender":"f"},{"lname_el":"Καλαμογδάρτη","lname_en":"Kalamogdarti","gender":"f"},{"lname_el":"Καλάρη","lname_en":"Kalari","gender":"f"},{"lname_el":"Καλλιγά","lname_en":"Kalliga","gender":"f"},{"lname_el":"Καλογερά","lname_en":"Kalogera","gender":"f"},{"lname_el":"Καλογιάννη","lname_en":"Kalogianni","gender":"f"},{"lname_el":"Καλομοίρη","lname_en":"Kalomoiri","gender":"f"},{"lname_el":"Καλύβα","lname_en":"Kalyva","gender":"f"},{"lname_el":"Καμπούρη","lname_en":"Kampouri","gender":"f"},{"lname_el":"Κανακάρη-Ρούφου","lname_en":"Kanakari-Roufou","gender":"f"},{"lname_el":"Καραβία","lname_en":"Karavia","gender":"f"},{"lname_el":"Καρακάη","lname_en":"Karakai","gender":"f"},{"lname_el":"Καραμάνου","lname_en":"Karamanou","gender":"f"},{"lname_el":"Καρατζαφέρη","lname_en":"Karatzaferi","gender":"f"},{"lname_el":"Καρέλια","lname_en":"Karelia","gender":"f"},{"lname_el":"Καρρά","lname_en":"Karra","gender":"f"},{"lname_el":"Κασιδιάρη","lname_en":"Kasidiari","gender":"f"},{"lname_el":"Κατσιγιάννη","lname_en":"Katsigianni","gender":"f"},{"lname_el":"Καψή","lname_en":"Kapsi","gender":"f"},{"lname_el":"Κεδίκογλου","lname_en":"Kedikoglou","gender":"f"},{"lname_el":"Κεφαλογιάννη","lname_en":"Kefalogianni","gender":"f"},{"lname_el":"Κεχαγιά","lname_en":"Kechagia","gender":"f"},{"lname_el":"Κοκκινάκη","lname_en":"Kokkinaki","gender":"f"},{"lname_el":"Κολιάτσου","lname_en":"Koliatsou","gender":"f"},{"lname_el":"Κομνηνού","lname_en":"Komninou","gender":"f"},{"lname_el":"Κονδύλη","lname_en":"Kondyli","gender":"f"},{"lname_el":"Κοντολέων","lname_en":"Kontoleon","gender":"f"},{"lname_el":"Κοντόσταυλου","lname_en":"Kontostavlou","gender":"f"},{"lname_el":"Κορακάκη","lname_en":"Korakaki","gender":"f"},{"lname_el":"Κόρακα","lname_en":"Koraka","gender":"f"},{"lname_el":"Κορνάρου","lname_en":"Kornarou","gender":"f"},{"lname_el":"Κορομηλά","lname_en":"Koromila","gender":"f"},{"lname_el":"Κορωναίου","lname_en":"Koronaiou","gender":"f"},{"lname_el":"Κοσμοπούλου","lname_en":"Kosmopoulou","gender":"f"},{"lname_el":"Κοτζιά","lname_en":"Kotzia","gender":"f"},{"lname_el":"Κουβέλη","lname_en":"Kouveli","gender":"f"},{"lname_el":"Κούνδουρου","lname_en":"Koundourou","gender":"f"},{"lname_el":"Κουντουριώτη","lname_en":"Kountourioti","gender":"f"},{"lname_el":"Κουρμούλη","lname_en":"Kourmouli","gender":"f"},{"lname_el":"Κουρτίδη","lname_en":"Kourtidi","gender":"f"},{"lname_el":"Κουταλιανού","lname_en":"Koutalianou","gender":"f"},{"lname_el":"Κρεστενίτη","lname_en":"Kresteniti","gender":"f"},{"lname_el":"Κυπραίου","lname_en":"Kypraiou","gender":"f"},{"lname_el":"Κυριακίδη","lname_en":"Kyriakidi","gender":"f"},{"lname_el":"Κωνσταντίνου","lname_en":"Konstantinou","gender":"f"},{"lname_el":"Κωνσταντοπούλου","lname_en":"Konstantopoulou","gender":"f"},{"lname_el":"Κωστή","lname_en":"Kosti","gender":"f"},{"lname_el":"Λαγού","lname_en":"Lagou","gender":"f"},{"lname_el":"Λαγουδάκη","lname_en":"Lagoudaki","gender":"f"},{"lname_el":"Λαζοπούλου","lname_en":"Lazopoulou","gender":"f"},{"lname_el":"Λαιμού","lname_en":"Laimou","gender":"f"},{"lname_el":"Λάιου","lname_en":"Laiou","gender":"f"},{"lname_el":"Λαμέρα","lname_en":"Lamera","gender":"f"},{"lname_el":"Λαμπάκη","lname_en":"Lampaki","gender":"f"},{"lname_el":"Λαμπροπούλου","lname_en":"Lampropoulou","gender":"f"},{"lname_el":"Λειβαδά","lname_en":"Leivada","gender":"f"},{"lname_el":"Λειβαδίτη","lname_en":"Leivaditi","gender":"f"},{"lname_el":"Λεπενιώτη","lname_en":"Lepenioti","gender":"f"},{"lname_el":"Λιακοπούλου","lname_en":"Liakopoulou","gender":"f"},{"lname_el":"Λιάπη","lname_en":"Liapi","gender":"f"},{"lname_el":"Λογοθετοπούλου","lname_en":"Logothetopoulou","gender":"f"},{"lname_el":"Λόντου","lname_en":"Lontou","gender":"f"},{"lname_el":"Λούπη","lname_en":"Loupi","gender":"f"},{"lname_el":"Λύκου","lname_en":"Lykou","gender":"f"},{"lname_el":"Λύτρα","lname_en":"Lytra","gender":"f"},{"lname_el":"Μαγγίνα","lname_en":"Mangina","gender":"f"},{"lname_el":"Μάγκα","lname_en":"Magka","gender":"f"},{"lname_el":"Μακρή","lname_en":"Makri","gender":"f"},{"lname_el":"Μαλαξού","lname_en":"Malaxou","gender":"f"},{"lname_el":"Μάμος","lname_en":"Mamos","gender":"f"},{"lname_el":"Μανιάκη","lname_en":"Maniaki","gender":"f"},{"lname_el":"Μανούση","lname_en":"Manousi","gender":"f"},{"lname_el":"Μανωλά","lname_en":"Manola","gender":"f"},{"lname_el":"Μαραγκού","lname_en":"Maragkou","gender":"f"},{"lname_el":"Μαργαρίτη","lname_en":"Margariti","gender":"f"},{"lname_el":"Μαρή","lname_en":"Mari","gender":"f"},{"lname_el":"Μαρινάκη","lname_en":"Marinaki","gender":"f"},{"lname_el":"Μαρκοπούλου","lname_en":"Markopoulou","gender":"f"},{"lname_el":"Μαυρίδη","lname_en":"Mavridi","gender":"f"},{"lname_el":"Μαυρογένη","lname_en":"Mavrogeni","gender":"f"},{"lname_el":"Μελετοπούλου","lname_en":"Meletopoulou","gender":"f"},{"lname_el":"Μεσσηνέζη","lname_en":"Messinezi","gender":"f"},{"lname_el":"Μεταξά","lname_en":"Metaxa","gender":"f"},{"lname_el":"Μήτζου","lname_en":"Mitzou","gender":"f"},{"lname_el":"Μήτρα","lname_en":"Mitra","gender":"f"},{"lname_el":"Μητροπούλου","lname_en":"Mitropoulou","gender":"f"},{"lname_el":"Μητσοτάκη","lname_en":"Mitsotaki","gender":"f"},{"lname_el":"Μιαούλη","lname_en":"Miaouli","gender":"f"},{"lname_el":"Μιχαηλίδη","lname_en":"Michailidi","gender":"f"},{"lname_el":"Μιχαλολιάκου","lname_en":"Michaloliakou","gender":"f"},{"lname_el":"Μολφέτα","lname_en":"Molfeta","gender":"f"},{"lname_el":"Μοσχοβάκη","lname_en":"Moschovaki","gender":"f"},{"lname_el":"Μόσχου","lname_en":"Moschou","gender":"f"},{"lname_el":"Μουζάκη","lname_en":"Mouzaki","gender":"f"},{"lname_el":"Μουσούρη","lname_en":"Mousouri","gender":"f"},{"lname_el":"Μουστάκα","lname_en":"Moustaka","gender":"f"},{"lname_el":"Μπακογιάννη","lname_en":"Bakogianni","gender":"f"},{"lname_el":"Μπαλάνου","lname_en":"Balanou","gender":"f"},{"lname_el":"Μπατιά","lname_en":"Batia","gender":"f"},{"lname_el":"Μπέζου","lname_en":"Bezou","gender":"f"},{"lname_el":"Μπλέτσα","lname_en":"Bletsa","gender":"f"},{"lname_el":"Μπογδάνου","lname_en":"Bogdanou","gender":"f"},{"lname_el":"Μπότσαρη","lname_en":"Botsari","gender":"f"},{"lname_el":"Μπουκουβάλα","lname_en":"Boukouvala","gender":"f"},{"lname_el":"Μυλωνά","lname_en":"Mylona","gender":"f"},{"lname_el":"Μώραλη","lname_en":"Morali","gender":"f"},{"lname_el":"Νάκος","lname_en":"Nakos","gender":"f"},{"lname_el":"Νάτος","lname_en":"Natos","gender":"f"},{"lname_el":"Νικολαΐδη","lname_en":"Nikolaidi","gender":"f"},{"lname_el":"Νικολάκου","lname_en":"Nikolakou","gender":"f"},{"lname_el":"Νικολάου","lname_en":"Nikolaou","gender":"f"},{"lname_el":"Ξανθοπούλου","lname_en":"Xanthopoulou","gender":"f"},{"lname_el":"Οικονομάκου","lname_en":"Oikonomakou","gender":"f"},{"lname_el":"Οικονομίδη","lname_en":"Oikonomidi","gender":"f"},{"lname_el":"Οικονόμου","lname_en":"Oikonomou","gender":"f"},{"lname_el":"Ουζουνίδη","lname_en":"Ouzounidi","gender":"f"},{"lname_el":"Παναγούλη","lname_en":"Panagouli","gender":"f"},{"lname_el":"Πανταζή","lname_en":"Pantazi","gender":"f"},{"lname_el":"Παπαγεωργίου","lname_en":"Papageorgiou","gender":"f"},{"lname_el":"Παπάγου","lname_en":"Papagou","gender":"f"},{"lname_el":"Παπαδάκη","lname_en":"Papadaki","gender":"f"},{"lname_el":"Παπαδήμα","lname_en":"Papadima","gender":"f"},{"lname_el":"Παπαδήμου","lname_en":"Papadimou","gender":"f"},{"lname_el":"Παπαδοπούλου","lname_en":"Papadopoulou","gender":"f"},{"lname_el":"Παπάζογλου","lname_en":"Papazoglou","gender":"f"},{"lname_el":"Παπαϊωάννου","lname_en":"Papaioannou","gender":"f"},{"lname_el":"Παπακωνσταντίνου","lname_en":"Papakonstantinou","gender":"f"},{"lname_el":"Παπακώστα","lname_en":"Papakosta","gender":"f"},{"lname_el":"Παπαμιχαήλ","lname_en":"Papamichail","gender":"f"},{"lname_el":"Παπανδρέου","lname_en":"Papandreou","gender":"f"},{"lname_el":"Παπανικολάου","lname_en":"Papanikolaou","gender":"f"},{"lname_el":"Παπαντωνίου","lname_en":"Papantoniou","gender":"f"},{"lname_el":"Παπαστεφάνου","lname_en":"Papastefanou","gender":"f"},{"lname_el":"Παπαστράτου","lname_en":"Papastratou","gender":"f"},{"lname_el":"Παπαφιλίππου","lname_en":"Papafilippou","gender":"f"},{"lname_el":"Παπαχρήστου","lname_en":"Papachristou","gender":"f"},{"lname_el":"Παπουλίδη","lname_en":"Papoulidi","gender":"f"},{"lname_el":"Παππά","lname_en":"Pappa","gender":"f"},{"lname_el":"Παράσχου","lname_en":"Paraschou","gender":"f"},{"lname_el":"Πάριου","lname_en":"Pariou","gender":"f"},{"lname_el":"Πασαλίδη","lname_en":"Pasalidi","gender":"f"},{"lname_el":"Παυλοπούλου","lname_en":"Pavlopoulou","gender":"f"},{"lname_el":"Παχή","lname_en":"Pachi","gender":"f"},{"lname_el":"Πέππα","lname_en":"Peppa","gender":"f"},{"lname_el":"Πέτσα","lname_en":"Petsa","gender":"f"},{"lname_el":"Πέτσου","lname_en":"Petsou","gender":"f"},{"lname_el":"Πολίτη","lname_en":"Politi","gender":"f"},{"lname_el":"Πουλοπούλου","lname_en":"Poulopoulou","gender":"f"},{"lname_el":"Πρωτονοτάριου","lname_en":"Protonotariou","gender":"f"},{"lname_el":"Πυλαρινού","lname_en":"Pylarinou","gender":"f"},{"lname_el":"Ραγκαβή","lname_en":"Ragkavi","gender":"f"},{"lname_el":"Ράγκου","lname_en":"Ragkou","gender":"f"},{"lname_el":"Ράπτη","lname_en":"Rapti","gender":"f"},{"lname_el":"Ρόκα","lname_en":"Roka","gender":"f"},{"lname_el":"Σακελλαρίου","lname_en":"Sakellariou","gender":"f"},{"lname_el":"Σαμαρά","lname_en":"Samara","gender":"f"},{"lname_el":"Σερπετζόγλου","lname_en":"Serpetzoglou","gender":"f"},{"lname_el":"Σίδερη","lname_en":"Sideri","gender":"f"},{"lname_el":"Σκλαβούνου","lname_en":"Sklavounou","gender":"f"},{"lname_el":"Σκυλακάκη","lname_en":"Skylakaki","gender":"f"},{"lname_el":"Σμυρλή","lname_en":"Smyrli","gender":"f"},{"lname_el":"Σπανού","lname_en":"Spanou","gender":"f"},{"lname_el":"Σπανουδάκη","lname_en":"Spanoudaki","gender":"f"},{"lname_el":"Σπηλιωτοπούλου","lname_en":"Spiliotopoulou","gender":"f"},{"lname_el":"Σπυροπούλου","lname_en":"Spyropoulou","gender":"f"},{"lname_el":"Στάμου","lname_en":"Stamou","gender":"f"},{"lname_el":"Σταυρινού","lname_en":"Stavrinou","gender":"f"},{"lname_el":"Στεφανάκη","lname_en":"Stefanaki","gender":"f"},{"lname_el":"Στεφανοπούλου","lname_en":"Stefanopoulou","gender":"f"},{"lname_el":"Συνοδινού","lname_en":"Synodinou","gender":"f"},{"lname_el":"Συρίγου","lname_en":"Syrigou","gender":"f"},{"lname_el":"Ταρσούλη","lname_en":"Tarsouli","gender":"f"},{"lname_el":"Τζέτζη","lname_en":"Tzetzi","gender":"f"},{"lname_el":"Τόγια","lname_en":"Togia","gender":"f"},{"lname_el":"Τοκατλίδη","lname_en":"Tokatlidi","gender":"f"},{"lname_el":"Τούντα","lname_en":"Tounta","gender":"f"},{"lname_el":"Τριανταφυλλοπούλου","lname_en":"Triantafyllopoulou","gender":"f"},{"lname_el":"Τρικούπη","lname_en":"Trikoupi","gender":"f"},{"lname_el":"Τσαγανέα","lname_en":"Tsaganea","gender":"f"},{"lname_el":"Τσακαλώτου","lname_en":"Tsakalotou","gender":"f"},{"lname_el":"Τσάκωνα","lname_en":"Tsakona","gender":"f"},{"lname_el":"Τσάμη","lname_en":"Tsami","gender":"f"},{"lname_el":"Τσάτσου","lname_en":"Tsatsou","gender":"f"},{"lname_el":"Τσικλητήρα","lname_en":"Tsiklitira","gender":"f"},{"lname_el":"Τσίπρα","lname_en":"Tsipra","gender":"f"},{"lname_el":"Τσόκου","lname_en":"Tsokou","gender":"f"},{"lname_el":"Τσουκαλά","lname_en":"Tsoukala","gender":"f"},{"lname_el":"Φανουράκη","lname_en":"Fanouraki","gender":"f"},{"lname_el":"Φιλιππίδη","lname_en":"Filippidi","gender":"f"},{"lname_el":"Φλέσσα","lname_en":"Flessa","gender":"f"},{"lname_el":"Φλώρου","lname_en":"Florou","gender":"f"},{"lname_el":"Φραγκούδη","lname_en":"Fragkoudi","gender":"f"},{"lname_el":"Φύσσα","lname_en":"Fyssa","gender":"f"},{"lname_el":"Φωτοπούλου","lname_en":"Fotopoulou","gender":"f"},{"lname_el":"Χαριτάκη","lname_en":"Charitaki","gender":"f"},{"lname_el":"Χατζηιωάννου","lname_en":"Chatziioannou","gender":"f"},{"lname_el":"Χατζηπαύλου","lname_en":"Chatzipavlou","gender":"f"},{"lname_el":"Χρηστοπούλου","lname_en":"Christopoulou","gender":"f"},{"lname_el":"Χριστοδουλοπούλου","lname_en":"Christodoulopoulou","gender":"f"},{"lname_el":"Χριστοπούλου","lname_en":"Christopoulou","gender":"f"},{"lname_el":"Ψωμιάδη","lname_en":"Psomiadi","gender":"f"}]
+{
+    "objData": [
+        {
+            "lname_el": "Αβραμίδης",
+            "lname_en": "Avramidis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Αγγελίδης",
+            "lname_en": "Angelidis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Αγγελόπουλος",
+            "lname_en": "Angelopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Αθανασιάδης",
+            "lname_en": "Athanasiadis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Αθανασίου",
+            "lname_en": "Athanasiou",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Αθανασούλας",
+            "lname_en": "Athanasoulas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Ακρίδας",
+            "lname_en": "Akridas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Αλαβάνος",
+            "lname_en": "Alavanos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Αλαφούζος",
+            "lname_en": "Alafouzos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Αλεβιζόπουλος",
+            "lname_en": "Alevizopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Αλεξάκης",
+            "lname_en": "Alexakis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Αλεξανδρίδης",
+            "lname_en": "Alexandridis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Αλεξάνδρου",
+            "lname_en": "Alexandrou",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Αλεξιάδης",
+            "lname_en": "Alexiadis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Αλεξίου",
+            "lname_en": "Alexiou",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Αλεξόπουλος",
+            "lname_en": "Alexopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Αλιβιζάτος",
+            "lname_en": "Alivizatos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Αμανατίδης",
+            "lname_en": "Amanatidis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Αναγνωστάκης",
+            "lname_en": "Anagnostakis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Αναγνωστόπουλος",
+            "lname_en": "Anagnostopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Αναγνώστου",
+            "lname_en": "Anagnostou",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Αναστασιάδης",
+            "lname_en": "Anastasiadis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Ανδρεαδάκης",
+            "lname_en": "Andreadakis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Ανδρεάδης",
+            "lname_en": "Andreadis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Ανδρέου",
+            "lname_en": "Andreou",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Ανδριανόπουλος",
+            "lname_en": "Andrianopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Ανδρουλάκης",
+            "lname_en": "Androulakis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Αντωνιάδης",
+            "lname_en": "Antoniadis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Αντωνόπουλος",
+            "lname_en": "Antonopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Αντωνοπούλου",
+            "lname_en": "Antonopoulou",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Αξιώτης",
+            "lname_en": "Axiotis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Αποστολάκης",
+            "lname_en": "Apostolakis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Αποστολίδης",
+            "lname_en": "Apostolidis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Αποστόλου",
+            "lname_en": "Apostolou",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Αρβανίτης",
+            "lname_en": "Arvanitis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Αργυράκης",
+            "lname_en": "Argyrakis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Αργυράκος",
+            "lname_en": "Argyrakos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Αργυριάδης",
+            "lname_en": "Argyriadis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Αργυρός",
+            "lname_en": "Argyros",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Ασλανίδης",
+            "lname_en": "Aslanidis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Αυγερινός",
+            "lname_en": "Avgerinos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Βαμβακάς",
+            "lname_en": "Vamvakas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Βάμβας",
+            "lname_en": "Vamvas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Βαρνακιώτης",
+            "lname_en": "Varnakiotis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Βαρουξής",
+            "lname_en": "Varouxis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Βασιλειάδης",
+            "lname_en": "Vasileiadis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Βασιλείου",
+            "lname_en": "Vasileiou",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Βασιλικός",
+            "lname_en": "Vasilikos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Βασιλόπουλος",
+            "lname_en": "Vasilopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Βενιζέλος",
+            "lname_en": "Venizelos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Βέργας",
+            "lname_en": "Vergas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Βικελίδης",
+            "lname_en": "Vikelidis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Βιλαέτης",
+            "lname_en": "Vilaetis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Βιτάλη",
+            "lname_en": "Vitali",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Βιτάλης",
+            "lname_en": "Vitalis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Βλαβιανός",
+            "lname_en": "Vlavianos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Βλαστός",
+            "lname_en": "Vlastos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Βλαχόπουλος",
+            "lname_en": "Vlachopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Βογιατζής",
+            "lname_en": "Vogiatzis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Βονόρτας",
+            "lname_en": "Vonortas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Βουγιουκλάκης",
+            "lname_en": "Vougiouklakis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Βούλγαρης",
+            "lname_en": "Voulgaris",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Βούλτεψης",
+            "lname_en": "Voultepsis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Βουρδουμπάς",
+            "lname_en": "Vourdoumpas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Βούρος",
+            "lname_en": "Vouros",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Βυζάντιος",
+            "lname_en": "Vyzantios",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Γαλάνη",
+            "lname_en": "Galani",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Γαλάνης",
+            "lname_en": "Galanis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Γαλανόπουλος",
+            "lname_en": "Galanopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Γεννάδιος",
+            "lname_en": "Gennadios",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Γεννηματάς",
+            "lname_en": "Gennimatas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Γερμανός",
+            "lname_en": "Germanos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Γεωργιάδης",
+            "lname_en": "Georgiadis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Γεωργίου",
+            "lname_en": "Georgiou",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Γιάγκος",
+            "lname_en": "Giagkos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Γιαλαμάς",
+            "lname_en": "Gialamas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Γιαννάκης",
+            "lname_en": "Giannakis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Γιαννακόπουλος",
+            "lname_en": "Giannakopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Γιάνναρης",
+            "lname_en": "Giannaris",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Γιαννόπουλος",
+            "lname_en": "Giannopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Γιαννούλης",
+            "lname_en": "Giannoulis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Γιωτόπουλος",
+            "lname_en": "Giotopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Γκόφας",
+            "lname_en": "Gkofas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Γλυκύς",
+            "lname_en": "Glykys",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Γουδής",
+            "lname_en": "Goudis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Γούναρης",
+            "lname_en": "Gounaris",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Γούσιος",
+            "lname_en": "Gousios",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Γραμματικόπουλος",
+            "lname_en": "Grammatikopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Δάβης",
+            "lname_en": "Davis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Δαγκλής",
+            "lname_en": "Dagklis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Δαμασιώτης",
+            "lname_en": "Damasiotis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Δαμασκηνός",
+            "lname_en": "Damaskinos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Δασκαλάκης",
+            "lname_en": "Daskalakis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Δασκαλόπουλος",
+            "lname_en": "Daskalopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Δελής",
+            "lname_en": "Delis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Δεσποτόπουλος",
+            "lname_en": "Despotopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Δημακόπουλος",
+            "lname_en": "Dimakopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Δημαράς",
+            "lname_en": "Dimaras",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Δημητρακόπουλος",
+            "lname_en": "Dimitrakopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Δημητρίου",
+            "lname_en": "Dimitriou",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Διαμαντής",
+            "lname_en": "Diamantis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Διαμαντόπουλος",
+            "lname_en": "Diamantopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Διδασκάλου",
+            "lname_en": "Didaskalou",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Δοξαράς",
+            "lname_en": "Doxaras",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Δουμπιώτης",
+            "lname_en": "Doumpiotis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Δουρέντης",
+            "lname_en": "Dourentis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Δραγούμης",
+            "lname_en": "Dragoumis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Δράκος",
+            "lname_en": "Drakos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Δυοβουνιώτης",
+            "lname_en": "Dyovouniotis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Έβερτ",
+            "lname_en": "Evert",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Ελευθεριάδης",
+            "lname_en": "Eleftheriadis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Ελευθερίου",
+            "lname_en": "Eleftheriou",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Ελευθερόπουλος",
+            "lname_en": "Eleftheropoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Ευθυμιάδης",
+            "lname_en": "Efthymiadis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Ευταξίας",
+            "lname_en": "Eftaxias",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Ζαΐμης",
+            "lname_en": "Zaimis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Ζάνος",
+            "lname_en": "Zanos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Ζάππας",
+            "lname_en": "Zappas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Ζάρκος",
+            "lname_en": "Zarkos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Ζαφειρόπουλος",
+            "lname_en": "Zafeiropoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Ζαχαρίου",
+            "lname_en": "Zachariou",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Ζάχος",
+            "lname_en": "Zachos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Ζέρβας",
+            "lname_en": "Zervas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Ζερβός",
+            "lname_en": "Zervos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Ζυγομαλάς",
+            "lname_en": "Zygomalas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Ζωγράφος",
+            "lname_en": "Zografos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Ηλιάδης",
+            "lname_en": "Iliadis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Ηλιόπουλος",
+            "lname_en": "Iliopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Θάνου",
+            "lname_en": "Thanou",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Θεοδοσίου",
+            "lname_en": "Theodosiou",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Θεοδοσόπουλος",
+            "lname_en": "Theodosopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Θεοδωρίδης",
+            "lname_en": "Theodoridis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Θεοτόκης",
+            "lname_en": "Theotokis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Ιορδανίδου",
+            "lname_en": "Iordanidou",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Ιωαννίδης",
+            "lname_en": "Ioannidis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Ιωάννου",
+            "lname_en": "Ioannou",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Καβαλούρης",
+            "lname_en": "Kavalouris",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Καζάκης",
+            "lname_en": "Kazakis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Καζάκος",
+            "lname_en": "Kazakos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Καζαντζής",
+            "lname_en": "Kazantzis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Κακριδής",
+            "lname_en": "Kakridis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Καλαμογδάρτης",
+            "lname_en": "Kalamogdartis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Καλάρης",
+            "lname_en": "Kalaris",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Καλλιγάς",
+            "lname_en": "Kalligas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Καλογεράς",
+            "lname_en": "Kalogeras",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Καλογιάννης",
+            "lname_en": "Kalogiannis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Καλομοίρης",
+            "lname_en": "Kalomoiris",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Καλύβας",
+            "lname_en": "Kalyvas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Καμπούρης",
+            "lname_en": "Kampouris",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Κανακάρης-Ρούφος",
+            "lname_en": "Kanakaris-Roufos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Καραβίας",
+            "lname_en": "Karavias",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Καρακάσης",
+            "lname_en": "Karakasis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Καραμάνος",
+            "lname_en": "Karamanos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Καρατζαφέρης",
+            "lname_en": "Karatzaferis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Καρέλιας",
+            "lname_en": "Karelias",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Καρράς",
+            "lname_en": "Karras",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Κασιδιάρης",
+            "lname_en": "Kasidiaris",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Κατσιγιάννης",
+            "lname_en": "Katsigiannis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Καψής",
+            "lname_en": "Kapsis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Κεδίκογλου",
+            "lname_en": "Kedikoglou",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Κεφαλογιάννης",
+            "lname_en": "Kefalogiannis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Κεχαγιάς",
+            "lname_en": "Kechagias",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Κοκκινάκης",
+            "lname_en": "Kokkinakis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Κολιάτσος",
+            "lname_en": "Koliatsos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Κομνηνός",
+            "lname_en": "Komninos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Κονδύλης",
+            "lname_en": "Kondylis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Κοντολέων",
+            "lname_en": "Kontoleon",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Κοντόσταυλος",
+            "lname_en": "Kontostavlos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Κορακάκης",
+            "lname_en": "Korakakis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Κόρακας",
+            "lname_en": "Korakas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Κορνάρος",
+            "lname_en": "Kornaros",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Κορομηλάς",
+            "lname_en": "Koromilas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Κορωναίος",
+            "lname_en": "Koronaios",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Κοσμόπουλος",
+            "lname_en": "Kosmopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Κοτζιάς",
+            "lname_en": "Kotzias",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Κουβέλης",
+            "lname_en": "Kouvelis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Κούνδουρος",
+            "lname_en": "Koundouros",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Κουντουριώτης",
+            "lname_en": "Kountouriotis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Κουρμούλης",
+            "lname_en": "Kourmoulis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Κουρτίδης",
+            "lname_en": "Kourtidis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Κουταλιανός",
+            "lname_en": "Koutalianos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Κρεστενίτης",
+            "lname_en": "Krestenitis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Κυπραίος",
+            "lname_en": "Kypraios",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Κυριακίδης",
+            "lname_en": "Kyriakidis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Κωνσταντίνου",
+            "lname_en": "Konstantinou",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Κωνσταντόπουλος",
+            "lname_en": "Konstantopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Κωστής",
+            "lname_en": "Kostis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Λαγός",
+            "lname_en": "Lagos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Λαγουδάκης",
+            "lname_en": "Lagoudakis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Λαζόπουλος",
+            "lname_en": "Lazopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Λαιμός",
+            "lname_en": "Laimos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Λάιος",
+            "lname_en": "Laios",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Λαμέρας",
+            "lname_en": "Lameras",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Λαμπάκης",
+            "lname_en": "Lampakis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Λαμπρόπουλος",
+            "lname_en": "Lampropoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Λειβαδάς",
+            "lname_en": "Leivadas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Λειβαδίτης",
+            "lname_en": "Leivaditis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Λεπενιώτης",
+            "lname_en": "Lepeniotis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Λιακόπουλος",
+            "lname_en": "Liakopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Λιάπης",
+            "lname_en": "Liapis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Λογοθετόπουλος",
+            "lname_en": "Logothetopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Λόντος",
+            "lname_en": "Lontos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Λούπης",
+            "lname_en": "Loupis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Λύκος",
+            "lname_en": "Lykos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Λύτρας",
+            "lname_en": "Lytras",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μαγγίνας",
+            "lname_en": "Manginas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μάγκας",
+            "lname_en": "Magkas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μακρής",
+            "lname_en": "Makris",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μαλαξός",
+            "lname_en": "Malaxos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μάμος",
+            "lname_en": "Mamos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μανιάκης",
+            "lname_en": "Maniakis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μανούσης",
+            "lname_en": "Manousis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μανωλάς",
+            "lname_en": "Manolas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μαραγκός",
+            "lname_en": "Maragkos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μαργαρίτης",
+            "lname_en": "Margaritis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μαρής",
+            "lname_en": "Maris",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μαρινάκης",
+            "lname_en": "Marinakis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μαρκόπουλος",
+            "lname_en": "Markopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μαυρίδης",
+            "lname_en": "Mavridis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μαυρογένης",
+            "lname_en": "Mavrogenis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μελετόπουλος",
+            "lname_en": "Meletopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μεσσηνέζης",
+            "lname_en": "Messinezis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μεταξάς",
+            "lname_en": "Metaxas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μήτζου",
+            "lname_en": "Mitzou",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μήτρας",
+            "lname_en": "Mitras",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μητρόπουλος",
+            "lname_en": "Mitropoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μητσοτάκης",
+            "lname_en": "Mitsotakis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μιαούλης",
+            "lname_en": "Miaoulis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μιχαηλίδης",
+            "lname_en": "Michailidis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μιχαλολιάκος",
+            "lname_en": "Michaloliakos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μολφέτας",
+            "lname_en": "Molfetas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μοσχοβάκης",
+            "lname_en": "Moschovakis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μόσχος",
+            "lname_en": "Moschos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μουζάκης",
+            "lname_en": "Mouzakis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μουσούρης",
+            "lname_en": "Mousouris",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μουστάκας",
+            "lname_en": "Moustakas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μπακογιάννης",
+            "lname_en": "Bakogiannis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μπαλάνος",
+            "lname_en": "Balanos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μπαστιάς",
+            "lname_en": "Bastias",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μπέζος",
+            "lname_en": "Bezos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μπλέτσας",
+            "lname_en": "Bletsas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μπογδάνος",
+            "lname_en": "Bogdanos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μπότσαρης",
+            "lname_en": "Botsaris",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μπουκουβάλας",
+            "lname_en": "Boukouvalas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μυλωνάς",
+            "lname_en": "Mylonas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Μώραλης",
+            "lname_en": "Moralis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Νάκος",
+            "lname_en": "Nakos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Νάστος",
+            "lname_en": "Nastos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Νικολαΐδης",
+            "lname_en": "Nikolaidis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Νικολάκος",
+            "lname_en": "Nikolakos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Νικολάου",
+            "lname_en": "Nikolaou",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Ξανθόπουλος",
+            "lname_en": "Xanthopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Οικονομάκος",
+            "lname_en": "Oikonomakos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Οικονομίδης",
+            "lname_en": "Oikonomidis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Οικονόμου",
+            "lname_en": "Oikonomou",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Ουζουνίδης",
+            "lname_en": "Ouzounidis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Παναγούλης",
+            "lname_en": "Panagoulis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Πανταζής",
+            "lname_en": "Pantazis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Παπαγεωργίου",
+            "lname_en": "Papageorgiou",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Παπάγος",
+            "lname_en": "Papagos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Παπαδάκης",
+            "lname_en": "Papadakis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Παπαδήμας",
+            "lname_en": "Papadimas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Παπαδήμος",
+            "lname_en": "Papadimos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Παπαδόπουλος",
+            "lname_en": "Papadopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Παπάζογλου",
+            "lname_en": "Papazoglou",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Παπαϊωάννου",
+            "lname_en": "Papaioannou",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Παπακωνσταντίνου",
+            "lname_en": "Papakonstantinou",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Παπακώστας",
+            "lname_en": "Papakostas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Παπαμιχαήλ",
+            "lname_en": "Papamichail",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Παπανδρέου",
+            "lname_en": "Papandreou",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Παπανικολάου",
+            "lname_en": "Papanikolaou",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Παπαντωνίου",
+            "lname_en": "Papantoniou",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Παπαστεφάνου",
+            "lname_en": "Papastefanou",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Παπαστράτος",
+            "lname_en": "Papastratos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Παπαφιλίππου",
+            "lname_en": "Papafilippou",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Παπαχρήστος",
+            "lname_en": "Papachristos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Παπουλίδης",
+            "lname_en": "Papoulidis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Παππάς",
+            "lname_en": "Pappas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Παράσχος",
+            "lname_en": "Paraschos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Πάριος",
+            "lname_en": "Parios",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Πασαλίδης",
+            "lname_en": "Pasalidis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Παυλόπουλος",
+            "lname_en": "Pavlopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Παχής",
+            "lname_en": "Pachis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Πέππας",
+            "lname_en": "Peppas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Πέτσας",
+            "lname_en": "Petsas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Πέτσος",
+            "lname_en": "Petsos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Πολίτης",
+            "lname_en": "Politis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Πουλόπουλος",
+            "lname_en": "Poulopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Πρωτονοτάριος",
+            "lname_en": "Protonotarios",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Πυλαρινός",
+            "lname_en": "Pylarinos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Ραγκαβής",
+            "lname_en": "Ragkavis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Ράγκος",
+            "lname_en": "Ragkos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Ράπτης",
+            "lname_en": "Raptis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Ρόκας",
+            "lname_en": "Rokas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Σακελλαρίου",
+            "lname_en": "Sakellariou",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Σαμαράς",
+            "lname_en": "Samaras",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Σερπετζόγλου",
+            "lname_en": "Serpetzoglou",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Σίδερης",
+            "lname_en": "Sideris",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Σκλαβούνος",
+            "lname_en": "Sklavounos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Σκυλακάκης",
+            "lname_en": "Skylakakis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Σμυρλής",
+            "lname_en": "Smyrlis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Σπανός",
+            "lname_en": "Spanos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Σπανουδάκης",
+            "lname_en": "Spanoudakis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Σπηλιωτόπουλος",
+            "lname_en": "Spiliotopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Σπυρόπουλος",
+            "lname_en": "Spyropoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Στάμος",
+            "lname_en": "Stamos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Σταυρινός",
+            "lname_en": "Stavrinos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Στεφανάκης",
+            "lname_en": "Stefanakis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Στεφανόπουλος",
+            "lname_en": "Stefanopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Συνοδινός",
+            "lname_en": "Synodinos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Συρίγος",
+            "lname_en": "Syrigos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Ταρσούλη",
+            "lname_en": "Tarsouli",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Τζέτζης",
+            "lname_en": "Tzetzis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Τόγιας",
+            "lname_en": "Togias",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Τοκατλίδης",
+            "lname_en": "Tokatlidis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Τούντας",
+            "lname_en": "Tountas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Τριανταφυλλόπουλος",
+            "lname_en": "Triantafyllopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Τρικούπης",
+            "lname_en": "Trikoupis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Τσαγανέας",
+            "lname_en": "Tsaganeas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Τσακαλώτος",
+            "lname_en": "Tsakalotos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Τσάκωνας",
+            "lname_en": "Tsakonas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Τσάμης",
+            "lname_en": "Tsamis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Τσάτσος",
+            "lname_en": "Tsatsos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Τσικλητήρας",
+            "lname_en": "Tsiklitiras",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Τσίπρας",
+            "lname_en": "Tsipras",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Τσόκος",
+            "lname_en": "Tsokos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Τσουκαλάς",
+            "lname_en": "Tsoukalas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Φανουράκης",
+            "lname_en": "Fanourakis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Φιλιππίδης",
+            "lname_en": "Filippidis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Φλέσσας",
+            "lname_en": "Flessas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Φλώρος",
+            "lname_en": "Floros",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Φραγκούδης",
+            "lname_en": "Fragkoudis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Φύσσας",
+            "lname_en": "Fyssas",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Φωτόπουλος",
+            "lname_en": "Fotopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Χαριτάκης",
+            "lname_en": "Charitakis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Χατζηιωάννου",
+            "lname_en": "Chatziioannou",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Χατζηπαύλου",
+            "lname_en": "Chatzipavlou",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Χρηστόπουλος",
+            "lname_en": "Christopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Χριστοδουλόπουλος",
+            "lname_en": "Christodoulopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Χριστόπουλος",
+            "lname_en": "Christopoulos",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Ψωμιάδης",
+            "lname_en": "Psomiadis",
+            "gender": "m"
+        },
+        {
+            "lname_el": "Αβραμίδου",
+            "lname_en": "Avramidou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Αγγελίδου",
+            "lname_en": "Angelidou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Αγγελοπούλου",
+            "lname_en": "Angelopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Αθανασιάδη",
+            "lname_en": "Athanasiadi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Αθανασίου",
+            "lname_en": "Athanasiou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Αθανασούλα",
+            "lname_en": "Athanasoula",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Ακρίδα",
+            "lname_en": "Akrida",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Αλαβάνου",
+            "lname_en": "Alavanou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Αλαφούζου",
+            "lname_en": "Alafouzou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Αλεβιζοπούλου",
+            "lname_en": "Alevizopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Αλεξάκη",
+            "lname_en": "Alexaki",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Αλεξανδρίδη",
+            "lname_en": "Alexandridi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Αλεξάνδρου",
+            "lname_en": "Alexandrou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Αλεξιάδη",
+            "lname_en": "Alexiadi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Αλεξίου",
+            "lname_en": "Alexiou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Αλεξοπούλου",
+            "lname_en": "Alexopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Αλιβιζάτου",
+            "lname_en": "Alivizatou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Αμανατίδη",
+            "lname_en": "Amanatidi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Αναγνωστάκη",
+            "lname_en": "Anagnostaki",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Αναγνωστοπούλου",
+            "lname_en": "Anagnostopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Αναγνώστου",
+            "lname_en": "Anagnostou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Αναστασιάδη",
+            "lname_en": "Anastasiadi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Ανδρεαδάκη",
+            "lname_en": "Andreadaki",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Ανδρεάδη",
+            "lname_en": "Andreadi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Ανδρέου",
+            "lname_en": "Andreou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Ανδριανοπούλου",
+            "lname_en": "Andrianopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Ανδρουλάκη",
+            "lname_en": "Androulaki",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Αντωνιάδη",
+            "lname_en": "Antoniadi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Αντωνοπούλου",
+            "lname_en": "Antonopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Αξιώτη",
+            "lname_en": "Axioti",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Αποστολάκη",
+            "lname_en": "Apostolaki",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Αποστολίδη",
+            "lname_en": "Apostolidi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Αποστόλου",
+            "lname_en": "Apostolou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Αρβανίτη",
+            "lname_en": "Arvaniti",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Αργυράκη",
+            "lname_en": "Argyraki",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Αργυράκου",
+            "lname_en": "Argyrakou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Αργυριάδη",
+            "lname_en": "Argyriadi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Αργυρού",
+            "lname_en": "Argyrou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Ασλανίδη",
+            "lname_en": "Aslanidi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Αυγερινού",
+            "lname_en": "Avgerinou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Βαμβακά",
+            "lname_en": "Vamvaka",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Βάμβα",
+            "lname_en": "Vamva",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Βαρνακιώτη",
+            "lname_en": "Varnakioti",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Βαρουξή",
+            "lname_en": "Varouxi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Βασιλειάδη",
+            "lname_en": "Vasileiadi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Βασιλείου",
+            "lname_en": "Vasileiou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Βασιλικού",
+            "lname_en": "Vasilikou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Βασιλοπούλου",
+            "lname_en": "Vasilopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Βενιζέλου",
+            "lname_en": "Venizelou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Βέργα",
+            "lname_en": "Verga",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Βικελίδη",
+            "lname_en": "Vikelidi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Βιλαέτη",
+            "lname_en": "Vilaeti",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Βιτάλη",
+            "lname_en": "Vitali",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Βλαβιανού",
+            "lname_en": "Vlavianou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Βλατού",
+            "lname_en": "Vlatou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Βλαχοπούλου",
+            "lname_en": "Vlachopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Βογιατζή",
+            "lname_en": "Vogiatzi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Βονόρτα",
+            "lname_en": "Vonorta",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Βουγιουκλάκη",
+            "lname_en": "Vougiouklaki",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Βούλγαρη",
+            "lname_en": "Voulgari",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Βούλτεψη",
+            "lname_en": "Voultepsi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Βουρδουμπά",
+            "lname_en": "Vourdoumpa",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Βούρου",
+            "lname_en": "Vourou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Βυζαντίου",
+            "lname_en": "Vyzantiou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Γαλάνη",
+            "lname_en": "Galani",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Γαλανοπούλου",
+            "lname_en": "Galanopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Γεννάδιου",
+            "lname_en": "Gennadiou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Γεννηματά",
+            "lname_en": "Gennimata",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Γερμανού",
+            "lname_en": "Germanou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Γεωργιάδη",
+            "lname_en": "Georgiadi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Γεωργίου",
+            "lname_en": "Georgiou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Γιάγκου",
+            "lname_en": "Giagkou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Γιαλαμά",
+            "lname_en": "Gialama",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Γιαννάκη",
+            "lname_en": "Giannaki",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Γιαννακοπούλου",
+            "lname_en": "Giannakopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Γιάνναρη",
+            "lname_en": "Giannari",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Γιαννοπούλου",
+            "lname_en": "Giannopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Γιαννούλη",
+            "lname_en": "Giannouli",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Γιωτοπούλου",
+            "lname_en": "Giotopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Γκόφα",
+            "lname_en": "Gkofa",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Γλυκύ",
+            "lname_en": "Glyky",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Γουδή",
+            "lname_en": "Goudi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Γούναρη",
+            "lname_en": "Gounari",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Γούσιου",
+            "lname_en": "Gousiou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Γραμματικοπούλου",
+            "lname_en": "Grammatikopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Δάβη",
+            "lname_en": "Davi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Δαγκλή",
+            "lname_en": "Dagkli",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Δαμασιώτη",
+            "lname_en": "Damasioti",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Δαμασκηνού",
+            "lname_en": "Damaskinou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Δασκαλάκη",
+            "lname_en": "Daskalaki",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Δασκαλοπούλου",
+            "lname_en": "Daskalopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Δελή",
+            "lname_en": "Deli",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Δεσποτοπούλου",
+            "lname_en": "Despotopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Δημακοπούλου",
+            "lname_en": "Dimakopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Δημαρά",
+            "lname_en": "Dimara",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Δημητρακοπούλου",
+            "lname_en": "Dimitrakopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Δημητρίου",
+            "lname_en": "Dimitriou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Διαμαντή",
+            "lname_en": "Diamanti",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Διαμαντοπούλου",
+            "lname_en": "Diamantopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Διδασκάλου",
+            "lname_en": "Didaskalou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Δοξαρά",
+            "lname_en": "Doxara",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Δουμπιώτη",
+            "lname_en": "Doumpioti",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Δουρέντη",
+            "lname_en": "Dourenti",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Δραγούμη",
+            "lname_en": "Dragoumi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Δράκου",
+            "lname_en": "Drakou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Δυοβουνιώτη",
+            "lname_en": "Dyovounioti",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Έβερτ",
+            "lname_en": "Evert",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Ελευθεριάδη",
+            "lname_en": "Eleftheriadi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Ελευθερίου",
+            "lname_en": "Eleftheriou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Ελευθεροπούλου",
+            "lname_en": "Eleftheropoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Ευθυμιάδη",
+            "lname_en": "Efthymiadi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Ευταξία",
+            "lname_en": "Eftaxia",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Ζαΐμη",
+            "lname_en": "Zaimi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Ζάνου",
+            "lname_en": "Zanou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Ζάππα",
+            "lname_en": "Zappa",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Ζάρκου",
+            "lname_en": "Zarkou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Ζαφειροπούλου",
+            "lname_en": "Zafeiropoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Ζαχαρίου",
+            "lname_en": "Zachariou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Ζάχου",
+            "lname_en": "Zachou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Ζέρβα",
+            "lname_en": "Zerva",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Ζερβού",
+            "lname_en": "Zervou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Ζυγομαλά",
+            "lname_en": "Zygomala",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Ζωγράφου",
+            "lname_en": "Zografou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Ηλιάδη",
+            "lname_en": "Iliadi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Ηλιοπούλου",
+            "lname_en": "Iliopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Θάνου",
+            "lname_en": "Thanou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Θεοδοσίου",
+            "lname_en": "Theodosiou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Θεοδοσοπούλου",
+            "lname_en": "Theodosopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Θεοδωρίδη",
+            "lname_en": "Theodoridi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Θεοτόκη",
+            "lname_en": "Theotoki",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Ιορδανίδου",
+            "lname_en": "Iordanidou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Ιωαννίδη",
+            "lname_en": "Ioannidi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Ιωάννου",
+            "lname_en": "Ioannou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Καβαλούρη",
+            "lname_en": "Kavalouri",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Καζάκη",
+            "lname_en": "Kazaki",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Καζάκου",
+            "lname_en": "Kazakou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Καζαντζή",
+            "lname_en": "Kazantzi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Κακριδή",
+            "lname_en": "Kakridi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Καλαμογδάρτη",
+            "lname_en": "Kalamogdarti",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Καλάρη",
+            "lname_en": "Kalari",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Καλλιγά",
+            "lname_en": "Kalliga",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Καλογερά",
+            "lname_en": "Kalogera",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Καλογιάννη",
+            "lname_en": "Kalogianni",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Καλομοίρη",
+            "lname_en": "Kalomoiri",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Καλύβα",
+            "lname_en": "Kalyva",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Καμπούρη",
+            "lname_en": "Kampouri",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Κανακάρη-Ρούφου",
+            "lname_en": "Kanakari-Roufou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Καραβία",
+            "lname_en": "Karavia",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Καρακάη",
+            "lname_en": "Karakai",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Καραμάνου",
+            "lname_en": "Karamanou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Καρατζαφέρη",
+            "lname_en": "Karatzaferi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Καρέλια",
+            "lname_en": "Karelia",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Καρρά",
+            "lname_en": "Karra",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Κασιδιάρη",
+            "lname_en": "Kasidiari",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Κατσιγιάννη",
+            "lname_en": "Katsigianni",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Καψή",
+            "lname_en": "Kapsi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Κεδίκογλου",
+            "lname_en": "Kedikoglou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Κεφαλογιάννη",
+            "lname_en": "Kefalogianni",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Κεχαγιά",
+            "lname_en": "Kechagia",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Κοκκινάκη",
+            "lname_en": "Kokkinaki",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Κολιάτσου",
+            "lname_en": "Koliatsou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Κομνηνού",
+            "lname_en": "Komninou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Κονδύλη",
+            "lname_en": "Kondyli",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Κοντολέων",
+            "lname_en": "Kontoleon",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Κοντόσταυλου",
+            "lname_en": "Kontostavlou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Κορακάκη",
+            "lname_en": "Korakaki",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Κόρακα",
+            "lname_en": "Koraka",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Κορνάρου",
+            "lname_en": "Kornarou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Κορομηλά",
+            "lname_en": "Koromila",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Κορωναίου",
+            "lname_en": "Koronaiou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Κοσμοπούλου",
+            "lname_en": "Kosmopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Κοτζιά",
+            "lname_en": "Kotzia",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Κουβέλη",
+            "lname_en": "Kouveli",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Κούνδουρου",
+            "lname_en": "Koundourou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Κουντουριώτη",
+            "lname_en": "Kountourioti",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Κουρμούλη",
+            "lname_en": "Kourmouli",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Κουρτίδη",
+            "lname_en": "Kourtidi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Κουταλιανού",
+            "lname_en": "Koutalianou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Κρεστενίτη",
+            "lname_en": "Kresteniti",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Κυπραίου",
+            "lname_en": "Kypraiou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Κυριακίδη",
+            "lname_en": "Kyriakidi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Κωνσταντίνου",
+            "lname_en": "Konstantinou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Κωνσταντοπούλου",
+            "lname_en": "Konstantopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Κωστή",
+            "lname_en": "Kosti",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Λαγού",
+            "lname_en": "Lagou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Λαγουδάκη",
+            "lname_en": "Lagoudaki",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Λαζοπούλου",
+            "lname_en": "Lazopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Λαιμού",
+            "lname_en": "Laimou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Λάιου",
+            "lname_en": "Laiou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Λαμέρα",
+            "lname_en": "Lamera",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Λαμπάκη",
+            "lname_en": "Lampaki",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Λαμπροπούλου",
+            "lname_en": "Lampropoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Λειβαδά",
+            "lname_en": "Leivada",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Λειβαδίτη",
+            "lname_en": "Leivaditi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Λεπενιώτη",
+            "lname_en": "Lepenioti",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Λιακοπούλου",
+            "lname_en": "Liakopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Λιάπη",
+            "lname_en": "Liapi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Λογοθετοπούλου",
+            "lname_en": "Logothetopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Λόντου",
+            "lname_en": "Lontou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Λούπη",
+            "lname_en": "Loupi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Λύκου",
+            "lname_en": "Lykou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Λύτρα",
+            "lname_en": "Lytra",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μαγγίνα",
+            "lname_en": "Mangina",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μάγκα",
+            "lname_en": "Magka",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μακρή",
+            "lname_en": "Makri",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μαλαξού",
+            "lname_en": "Malaxou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μάμος",
+            "lname_en": "Mamos",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μανιάκη",
+            "lname_en": "Maniaki",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μανούση",
+            "lname_en": "Manousi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μανωλά",
+            "lname_en": "Manola",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μαραγκού",
+            "lname_en": "Maragkou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μαργαρίτη",
+            "lname_en": "Margariti",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μαρή",
+            "lname_en": "Mari",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μαρινάκη",
+            "lname_en": "Marinaki",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μαρκοπούλου",
+            "lname_en": "Markopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μαυρίδη",
+            "lname_en": "Mavridi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μαυρογένη",
+            "lname_en": "Mavrogeni",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μελετοπούλου",
+            "lname_en": "Meletopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μεσσηνέζη",
+            "lname_en": "Messinezi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μεταξά",
+            "lname_en": "Metaxa",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μήτζου",
+            "lname_en": "Mitzou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μήτρα",
+            "lname_en": "Mitra",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μητροπούλου",
+            "lname_en": "Mitropoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μητσοτάκη",
+            "lname_en": "Mitsotaki",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μιαούλη",
+            "lname_en": "Miaouli",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μιχαηλίδη",
+            "lname_en": "Michailidi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μιχαλολιάκου",
+            "lname_en": "Michaloliakou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μολφέτα",
+            "lname_en": "Molfeta",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μοσχοβάκη",
+            "lname_en": "Moschovaki",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μόσχου",
+            "lname_en": "Moschou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μουζάκη",
+            "lname_en": "Mouzaki",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μουσούρη",
+            "lname_en": "Mousouri",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μουστάκα",
+            "lname_en": "Moustaka",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μπακογιάννη",
+            "lname_en": "Bakogianni",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μπαλάνου",
+            "lname_en": "Balanou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μπατιά",
+            "lname_en": "Batia",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μπέζου",
+            "lname_en": "Bezou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μπλέτσα",
+            "lname_en": "Bletsa",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μπογδάνου",
+            "lname_en": "Bogdanou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μπότσαρη",
+            "lname_en": "Botsari",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μπουκουβάλα",
+            "lname_en": "Boukouvala",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μυλωνά",
+            "lname_en": "Mylona",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Μώραλη",
+            "lname_en": "Morali",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Νάκος",
+            "lname_en": "Nakos",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Νάτος",
+            "lname_en": "Natos",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Νικολαΐδη",
+            "lname_en": "Nikolaidi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Νικολάκου",
+            "lname_en": "Nikolakou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Νικολάου",
+            "lname_en": "Nikolaou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Ξανθοπούλου",
+            "lname_en": "Xanthopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Οικονομάκου",
+            "lname_en": "Oikonomakou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Οικονομίδη",
+            "lname_en": "Oikonomidi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Οικονόμου",
+            "lname_en": "Oikonomou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Ουζουνίδη",
+            "lname_en": "Ouzounidi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Παναγούλη",
+            "lname_en": "Panagouli",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Πανταζή",
+            "lname_en": "Pantazi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Παπαγεωργίου",
+            "lname_en": "Papageorgiou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Παπάγου",
+            "lname_en": "Papagou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Παπαδάκη",
+            "lname_en": "Papadaki",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Παπαδήμα",
+            "lname_en": "Papadima",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Παπαδήμου",
+            "lname_en": "Papadimou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Παπαδοπούλου",
+            "lname_en": "Papadopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Παπάζογλου",
+            "lname_en": "Papazoglou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Παπαϊωάννου",
+            "lname_en": "Papaioannou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Παπακωνσταντίνου",
+            "lname_en": "Papakonstantinou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Παπακώστα",
+            "lname_en": "Papakosta",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Παπαμιχαήλ",
+            "lname_en": "Papamichail",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Παπανδρέου",
+            "lname_en": "Papandreou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Παπανικολάου",
+            "lname_en": "Papanikolaou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Παπαντωνίου",
+            "lname_en": "Papantoniou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Παπαστεφάνου",
+            "lname_en": "Papastefanou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Παπαστράτου",
+            "lname_en": "Papastratou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Παπαφιλίππου",
+            "lname_en": "Papafilippou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Παπαχρήστου",
+            "lname_en": "Papachristou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Παπουλίδη",
+            "lname_en": "Papoulidi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Παππά",
+            "lname_en": "Pappa",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Παράσχου",
+            "lname_en": "Paraschou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Πάριου",
+            "lname_en": "Pariou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Πασαλίδη",
+            "lname_en": "Pasalidi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Παυλοπούλου",
+            "lname_en": "Pavlopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Παχή",
+            "lname_en": "Pachi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Πέππα",
+            "lname_en": "Peppa",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Πέτσα",
+            "lname_en": "Petsa",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Πέτσου",
+            "lname_en": "Petsou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Πολίτη",
+            "lname_en": "Politi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Πουλοπούλου",
+            "lname_en": "Poulopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Πρωτονοτάριου",
+            "lname_en": "Protonotariou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Πυλαρινού",
+            "lname_en": "Pylarinou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Ραγκαβή",
+            "lname_en": "Ragkavi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Ράγκου",
+            "lname_en": "Ragkou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Ράπτη",
+            "lname_en": "Rapti",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Ρόκα",
+            "lname_en": "Roka",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Σακελλαρίου",
+            "lname_en": "Sakellariou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Σαμαρά",
+            "lname_en": "Samara",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Σερπετζόγλου",
+            "lname_en": "Serpetzoglou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Σίδερη",
+            "lname_en": "Sideri",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Σκλαβούνου",
+            "lname_en": "Sklavounou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Σκυλακάκη",
+            "lname_en": "Skylakaki",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Σμυρλή",
+            "lname_en": "Smyrli",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Σπανού",
+            "lname_en": "Spanou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Σπανουδάκη",
+            "lname_en": "Spanoudaki",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Σπηλιωτοπούλου",
+            "lname_en": "Spiliotopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Σπυροπούλου",
+            "lname_en": "Spyropoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Στάμου",
+            "lname_en": "Stamou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Σταυρινού",
+            "lname_en": "Stavrinou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Στεφανάκη",
+            "lname_en": "Stefanaki",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Στεφανοπούλου",
+            "lname_en": "Stefanopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Συνοδινού",
+            "lname_en": "Synodinou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Συρίγου",
+            "lname_en": "Syrigou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Ταρσούλη",
+            "lname_en": "Tarsouli",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Τζέτζη",
+            "lname_en": "Tzetzi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Τόγια",
+            "lname_en": "Togia",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Τοκατλίδη",
+            "lname_en": "Tokatlidi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Τούντα",
+            "lname_en": "Tounta",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Τριανταφυλλοπούλου",
+            "lname_en": "Triantafyllopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Τρικούπη",
+            "lname_en": "Trikoupi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Τσαγανέα",
+            "lname_en": "Tsaganea",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Τσακαλώτου",
+            "lname_en": "Tsakalotou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Τσάκωνα",
+            "lname_en": "Tsakona",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Τσάμη",
+            "lname_en": "Tsami",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Τσάτσου",
+            "lname_en": "Tsatsou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Τσικλητήρα",
+            "lname_en": "Tsiklitira",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Τσίπρα",
+            "lname_en": "Tsipra",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Τσόκου",
+            "lname_en": "Tsokou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Τσουκαλά",
+            "lname_en": "Tsoukala",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Φανουράκη",
+            "lname_en": "Fanouraki",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Φιλιππίδη",
+            "lname_en": "Filippidi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Φλέσσα",
+            "lname_en": "Flessa",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Φλώρου",
+            "lname_en": "Florou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Φραγκούδη",
+            "lname_en": "Fragkoudi",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Φύσσα",
+            "lname_en": "Fyssa",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Φωτοπούλου",
+            "lname_en": "Fotopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Χαριτάκη",
+            "lname_en": "Charitaki",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Χατζηιωάννου",
+            "lname_en": "Chatziioannou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Χατζηπαύλου",
+            "lname_en": "Chatzipavlou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Χρηστοπούλου",
+            "lname_en": "Christopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Χριστοδουλοπούλου",
+            "lname_en": "Christodoulopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Χριστοπούλου",
+            "lname_en": "Christopoulou",
+            "gender": "f"
+        },
+        {
+            "lname_el": "Ψωμιάδη",
+            "lname_en": "Psomiadi",
+            "gender": "f"
+        }
+    ]
+}

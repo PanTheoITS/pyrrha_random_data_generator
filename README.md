@@ -24,6 +24,8 @@ Now, if you want to:
 
 ##  **Updates**
 
+* Version 1.1.1: Minor bug fixes were made.
+
 * Version 1.1.0: Date of birth and VAT ID were added.
 
 * Version 1.0.5: Two more output formats were added (SQL and XML).

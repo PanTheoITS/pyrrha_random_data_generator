@@ -131,6 +131,7 @@ function createLicenseWindow() {
 function fetchDataFromDB(fileName) {
     return new Promise((resolve, reject) => {
         let data = [];
+
         fs.readFile(path.resolve(__dirname, `dbase/${fileName}.json`), (err, rows) => {
             if (err)
                 reject(err);
@@ -138,29 +139,29 @@ function fetchDataFromDB(fileName) {
             switch (fileName) {
                 case 'fnames':
                     if (gender !== 'b') {
-                        JSONRows.forEach(JSONRow => {
+                        JSONRows.objData.forEach(JSONRow => {
                             if (JSONRow.gender == gender) {
                                 data.push(JSONRow);
                             }
                         });
                     } else {
-                        data = Array.from(JSONRows);
+                        data = Array.from(JSONRows.objData);
                     }
                     break;
                 case 'lnames':
                     if (gender !== 'b') {
-                        JSONRows.forEach(JSONRow => {
+                        JSONRows.objData.forEach(JSONRow => {
                             if (JSONRow.gender == gender) {
                                 data.push(JSONRow);
                             }
                         });
                     } else {
-                        data = Array.from(JSONRows);
+                        data = Array.from(JSONRows.objData);
                     }
                     break;
 
                 default:
-                    data = Array.from(JSONRows);
+                    data = Array.from(JSONRows.objData);
             }
             resolve(data);
 
@@ -375,6 +376,9 @@ function getData(formValues) {
                 break;
             case 'lname':
                 lname = element.value;
+                break;
+            case 'address':
+                address = element.value;
                 break;
             case 'username':
                 username = element.value;

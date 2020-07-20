@@ -1,1 +1,16 @@
-[{"provider":"gmail.com"},{"provider":"outlook.com"},{"provider":"hotmail.com"},{"provider":"yahoo.com"}]
+{
+    "objData": [
+        {
+            "provider": "gmail.com"
+        },
+        {
+            "provider": "outlook.com"
+        },
+        {
+            "provider": "hotmail.com"
+        },
+        {
+            "provider": "yahoo.com"
+        }
+    ]
+}
